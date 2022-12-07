@@ -1,0 +1,1072 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Agrigento",
+        "name": "Agrigento",
+        "code": "AG",
+        "region": "Sicily",
+        "pop": "416,181",
+        "area": "3,052.82 km(1,178.70 sq mi)",
+        "popdensity": "136"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Alessandria",
+        "name": "Alessandria",
+        "code": "AL",
+        "region": "Piedmont",
+        "pop": "409,392",
+        "area": "3,558.78 km(1,374.05 sq mi)",
+        "popdensity": "115"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ancona",
+        "name": "Ancona",
+        "code": "AN",
+        "region": "Marche",
+        "pop": "464,419",
+        "area": "1,963.21 km(758.00 sq mi)",
+        "popdensity": "237"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Aosta_Valley",
+        "name": "Aosta",
+        "code": "AO",
+        "region": "Aosta Valley",
+        "pop": "124,089",
+        "area": "3,260.85 km(1,259.02 sq mi)",
+        "popdensity": "38"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Arezzo",
+        "name": "Arezzo",
+        "code": "AR",
+        "region": "Tuscany",
+        "pop": "336,501",
+        "area": "3,232.99 km(1,248.26 sq mi)",
+        "popdensity": "104"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ascoli_Piceno",
+        "name": "Ascoli Piceno",
+        "code": "AP",
+        "region": "Marche",
+        "pop": "203,425",
+        "area": "1,228.19 km(474.21 sq mi)",
+        "popdensity": "166"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Asti",
+        "name": "Asti",
+        "code": "AT",
+        "region": "Piedmont",
+        "pop": "209,390",
+        "area": "1,510.17 km(583.08 sq mi)",
+        "popdensity": "139"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Avellino",
+        "name": "Avellino",
+        "code": "AV",
+        "region": "Campania",
+        "pop": "402,929",
+        "area": "2,805.96 km(1,083.39 sq mi)",
+        "popdensity": "144"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Bari",
+        "name": "Bari",
+        "code": "BA",
+        "region": "Apulia",
+        "pop": "1,230,158",
+        "area": "3,862.73 km(1,491.41 sq mi)",
+        "popdensity": "318"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Barletta-Andria-Trani",
+        "name": "Barletta-Andria-Trani",
+        "code": "BT",
+        "region": "Apulia",
+        "pop": "381,091",
+        "area": "1,542.93 km(595.73 sq mi)",
+        "popdensity": "247"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Belluno",
+        "name": "Belluno",
+        "code": "BL",
+        "region": "Veneto",
+        "pop": "199,704",
+        "area": "3,609.98 km(1,393.82 sq mi)",
+        "popdensity": "55"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Benevento",
+        "name": "Benevento",
+        "code": "BN",
+        "region": "Campania",
+        "pop": "266,716",
+        "area": "2,080.37 km(803.24 sq mi)",
+        "popdensity": "128"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Bergamo",
+        "name": "Bergamo",
+        "code": "BG",
+        "region": "Lombardy",
+        "pop": "1,103,556",
+        "area": "2,754.86 km(1,063.66 sq mi)",
+        "popdensity": "401"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Biella",
+        "name": "Biella",
+        "code": "BI",
+        "region": "Piedmont",
+        "pop": "170,724",
+        "area": "913.27 km(352.62 sq mi)",
+        "popdensity": "187"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Bologna",
+        "name": "Bologna",
+        "code": "BO",
+        "region": "Emilia-Romagna",
+        "pop": "1,015,608",
+        "area": "3,702.25 km(1,429.45 sq mi)",
+        "popdensity": "274"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Brescia",
+        "name": "Brescia",
+        "code": "BS",
+        "region": "Lombardy",
+        "pop": "1,255,709",
+        "area": "4,785.48 km(1,847.68 sq mi)",
+        "popdensity": "262"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Brindisi",
+        "name": "Brindisi",
+        "code": "BR",
+        "region": "Apulia",
+        "pop": "381,946",
+        "area": "1,861.33 km(718.66 sq mi)",
+        "popdensity": "205"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Cagliari",
+        "name": "Cagliari",
+        "code": "CA",
+        "region": "Sardinia",
+        "pop": "421,488",
+        "area": "1,248.66 km(482.11 sq mi)",
+        "popdensity": "338"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Caltanissetta",
+        "name": "Caltanissetta",
+        "code": "CL",
+        "region": "Sicily",
+        "pop": "253,688",
+        "area": "2,138.47 km(825.67 sq mi)",
+        "popdensity": "119"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Campobasso",
+        "name": "Campobasso",
+        "code": "CB",
+        "region": "Molise",
+        "pop": "212,879",
+        "area": "2,925.28 km(1,129.46 sq mi)",
+        "popdensity": "73"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Caserta",
+        "name": "Caserta",
+        "code": "CE",
+        "region": "Campania",
+        "pop": "901,903",
+        "area": "2,651.28 km(1,023.66 sq mi)",
+        "popdensity": "340"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Catania",
+        "name": "Catania",
+        "code": "CT",
+        "region": "Sicily",
+        "pop": "1,074,089",
+        "area": "3,573.51 km(1,379.74 sq mi)",
+        "popdensity": "301"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Catanzaro",
+        "name": "Catanzaro",
+        "code": "CZ",
+        "region": "Calabria",
+        "pop": "344,439",
+        "area": "2,415.41 km(932.60 sq mi)",
+        "popdensity": "143"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Chieti",
+        "name": "Chieti",
+        "code": "CH",
+        "region": "Abruzzo",
+        "pop": "375,215",
+        "area": "2,599.53 km(1,003.68 sq mi)",
+        "popdensity": "144"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Como",
+        "name": "Como",
+        "code": "CO",
+        "region": "Lombardy",
+        "pop": "596,456",
+        "area": "1,279.02 km(493.83 sq mi)",
+        "popdensity": "466"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cosenza",
+        "name": "Cosenza",
+        "code": "CS",
+        "region": "Calabria",
+        "pop": "676,119",
+        "area": "6,709.62 km(2,590.60 sq mi)",
+        "popdensity": "101"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cremona",
+        "name": "Cremona",
+        "code": "CR",
+        "region": "Lombardy",
+        "pop": "352,242",
+        "area": "1,770.41 km(683.56 sq mi)",
+        "popdensity": "199"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Crotone",
+        "name": "Crotone",
+        "code": "KR",
+        "region": "Calabria",
+        "pop": "164,059",
+        "area": "1,735.65 km(670.14 sq mi)",
+        "popdensity": "95"
+    },
+    {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cuneo",
+        "name": "Cuneo",
+        "code": "CN",
+        "region": "Piedmont",
+        "pop": "581,798",
+        "area": "6,894.83 km(2,662.11 sq mi)",
+        "popdensity": "84"
+    },
+    {
+        "id": 29,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Enna",
+        "name": "Enna",
+        "code": "EN",
+        "region": "Sicily",
+        "pop": "157,690",
+        "area": "2,574.67 km(994.09 sq mi)",
+        "popdensity": "61"
+    },
+    {
+        "id": 30,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Fermo",
+        "name": "Fermo",
+        "code": "FM",
+        "region": "Marche",
+        "pop": "169,710",
+        "area": "862.75 km(333.11 sq mi)",
+        "popdensity": "197"
+    },
+    {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ferrara",
+        "name": "Ferrara",
+        "code": "FE",
+        "region": "Emilia-Romagna",
+        "pop": "342,061",
+        "area": "2,627.38 km(1,014.44 sq mi)",
+        "popdensity": "130"
+    },
+    {
+        "id": 32,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Florence",
+        "name": "Florence",
+        "code": "FI",
+        "region": "Tuscany",
+        "pop": "998,431",
+        "area": "3,513.65 km(1,356.63 sq mi)",
+        "popdensity": "284"
+    },
+    {
+        "id": 33,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Foggia",
+        "name": "Foggia",
+        "code": "FG",
+        "region": "Apulia",
+        "pop": "602,394",
+        "area": "7,007.33 km(2,705.55 sq mi)",
+        "popdensity": "86"
+    },
+    {
+        "id": 34,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Forl%C3%AC-Cesena",
+        "name": "Forlì-Cesena",
+        "code": "FC",
+        "region": "Emilia-Romagna",
+        "pop": "392,642",
+        "area": "2,378.32 km(918.27 sq mi)",
+        "popdensity": "165"
+    },
+    {
+        "id": 35,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Frosinone",
+        "name": "Frosinone",
+        "code": "FR",
+        "region": "Lazio",
+        "pop": "472,559",
+        "area": "3,246.96 km(1,253.66 sq mi)",
+        "popdensity": "146"
+    },
+    {
+        "id": 36,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Genoa",
+        "name": "Genoa",
+        "code": "GE",
+        "region": "Liguria",
+        "pop": "823,612",
+        "area": "1,833.75 km(708.01 sq mi)",
+        "popdensity": "449"
+    },
+    {
+        "id": 37,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Gorizia",
+        "name": "Gorizia",
+        "code": "GO",
+        "region": "Friuli-Venezia Giulia",
+        "pop": "139,070",
+        "area": "475.40 km(183.55 sq mi)",
+        "popdensity": "293"
+    },
+    {
+        "id": 38,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Grosseto",
+        "name": "Grosseto",
+        "code": "GR",
+        "region": "Tuscany",
+        "pop": "217,846",
+        "area": "4,503.17 km(1,738.68 sq mi)",
+        "popdensity": "48"
+    },
+    {
+        "id": 39,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Imperia",
+        "name": "Imperia",
+        "code": "IM",
+        "region": "Liguria",
+        "pop": "209,244",
+        "area": "1,154.76 km(445.86 sq mi)",
+        "popdensity": "181"
+    },
+    {
+        "id": 40,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Isernia",
+        "name": "Isernia",
+        "code": "IS",
+        "region": "Molise",
+        "pop": "81,415",
+        "area": "1,535.16 km(592.73 sq mi)",
+        "popdensity": "53"
+    },
+    {
+        "id": 41,
+        "url": "https://en.wikipedia.org/wiki/Province_of_L%27Aquila",
+        "name": "L'Aquila",
+        "code": "AQ",
+        "region": "Abruzzo",
+        "pop": "290,811",
+        "area": "5,047.34 km(1,948.79 sq mi)",
+        "popdensity": "58"
+    },
+    {
+        "id": 42,
+        "url": "https://en.wikipedia.org/wiki/Province_of_La_Spezia",
+        "name": "La Spezia",
+        "code": "SP",
+        "region": "Liguria",
+        "pop": "215,887",
+        "area": "881.38 km(340.30 sq mi)",
+        "popdensity": "245"
+    },
+    {
+        "id": 43,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Latina",
+        "name": "Latina",
+        "code": "LT",
+        "region": "Lazio",
+        "pop": "566,224",
+        "area": "2,256.14 km(871.10 sq mi)",
+        "popdensity": "251"
+    },
+    {
+        "id": 44,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lecce",
+        "name": "Lecce",
+        "code": "LE",
+        "region": "Apulia",
+        "pop": "776,230",
+        "area": "2,798.88 km(1,080.65 sq mi)",
+        "popdensity": "277"
+    },
+    {
+        "id": 45,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lecco",
+        "name": "Lecco",
+        "code": "LC",
+        "region": "Lombardy",
+        "pop": "333,569",
+        "area": "805.60 km(311.04 sq mi)",
+        "popdensity": "414"
+    },
+    {
+        "id": 46,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Livorno",
+        "name": "Livorno",
+        "code": "LI",
+        "region": "Tuscany",
+        "pop": "328,996",
+        "area": "1,213.52 km(468.54 sq mi)",
+        "popdensity": "271"
+    },
+    {
+        "id": 47,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lodi",
+        "name": "Lodi",
+        "code": "LO",
+        "region": "Lombardy",
+        "pop": "227,343",
+        "area": "782.97 km(302.31 sq mi)",
+        "popdensity": "290"
+    },
+    {
+        "id": 48,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lucca",
+        "name": "Lucca",
+        "code": "LU",
+        "region": "Tuscany",
+        "pop": "383,957",
+        "area": "1,774.04 km(684.96 sq mi)",
+        "popdensity": "216"
+    },
+    {
+        "id": 49,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Macerata",
+        "name": "Macerata",
+        "code": "MC",
+        "region": "Marche",
+        "pop": "307,410",
+        "area": "2,779.31 km(1,073.10 sq mi)",
+        "popdensity": "111"
+    },
+    {
+        "id": 50,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Mantua",
+        "name": "Mantua",
+        "code": "MN",
+        "region": "Lombardy",
+        "pop": "406,061",
+        "area": "2,341.35 km(904.00 sq mi)",
+        "popdensity": "173"
+    },
+    {
+        "id": 51,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Massa_and_Carrara",
+        "name": "Massa and Carrara",
+        "code": "MS",
+        "region": "Tuscany",
+        "pop": "189,836",
+        "area": "1,154.60 km(445.79 sq mi)",
+        "popdensity": "164"
+    },
+    {
+        "id": 52,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Matera",
+        "name": "Matera",
+        "code": "MT",
+        "region": "Basilicata",
+        "pop": "192,640",
+        "area": "3,478.84 km(1,343.19 sq mi)",
+        "popdensity": "55"
+    },
+    {
+        "id": 53,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Messina",
+        "name": "Messina",
+        "code": "ME",
+        "region": "Sicily",
+        "pop": "603,980",
+        "area": "3,266.07 km(1,261.04 sq mi)",
+        "popdensity": "185"
+    },
+    {
+        "id": 54,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Milan",
+        "name": "Milan",
+        "code": "MI",
+        "region": "Lombardy",
+        "pop": "3,241,813",
+        "area": "1,575.49 km(608.30 sq mi)",
+        "popdensity": "2,058"
+    },
+    {
+        "id": 55,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Modena",
+        "name": "Modena",
+        "code": "MO",
+        "region": "Emilia-Romagna",
+        "pop": "703,696",
+        "area": "2,687.88 km(1,037.80 sq mi)",
+        "popdensity": "262"
+    },
+    {
+        "id": 56,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Monza_and_Brianza",
+        "name": "Monza and Brianza",
+        "code": "MB",
+        "region": "Lombardy",
+        "pop": "870,113",
+        "area": "405.41 km(156.53 sq mi)",
+        "popdensity": "2,146"
+    },
+    {
+        "id": 57,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Naples",
+        "name": "Naples",
+        "code": "NA",
+        "region": "Campania",
+        "pop": "2,986,745",
+        "area": "1,178.94 km(455.19 sq mi)",
+        "popdensity": "2,533"
+    },
+    {
+        "id": 58,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Novara",
+        "name": "Novara",
+        "code": "NO",
+        "region": "Piedmont",
+        "pop": "362,925",
+        "area": "1,340.25 km(517.47 sq mi)",
+        "popdensity": "271"
+    },
+    {
+        "id": 59,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Nuoro",
+        "name": "Nuoro",
+        "code": "NU",
+        "region": "Sardinia",
+        "pop": "201,517",
+        "area": "5,637.97 km(2,176.83 sq mi)",
+        "popdensity": "36"
+    },
+    {
+        "id": 60,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Oristano",
+        "name": "Oristano",
+        "code": "OR",
+        "region": "Sardinia",
+        "pop": "152,418",
+        "area": "2,990.41 km(1,154.60 sq mi)",
+        "popdensity": "51"
+    },
+    {
+        "id": 61,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Padua",
+        "name": "Padua",
+        "code": "PD",
+        "region": "Veneto",
+        "pop": "932,629",
+        "area": "2,144.12 km(827.85 sq mi)",
+        "popdensity": "435"
+    },
+    {
+        "id": 62,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Palermo",
+        "name": "Palermo",
+        "code": "PA",
+        "region": "Sicily",
+        "pop": "1,208,819",
+        "area": "5,009.21 km(1,934.07 sq mi)",
+        "popdensity": "241"
+    },
+    {
+        "id": 63,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Parma",
+        "name": "Parma",
+        "code": "PR",
+        "region": "Emilia-Romagna",
+        "pop": "449,628",
+        "area": "3,447.40 km(1,331.05 sq mi)",
+        "popdensity": "130"
+    },
+    {
+        "id": 64,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pavia",
+        "name": "Pavia",
+        "code": "PV",
+        "region": "Lombardy",
+        "pop": "535,801",
+        "area": "2,968.59 km(1,146.18 sq mi)",
+        "popdensity": "180"
+    },
+    {
+        "id": 65,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Perugia",
+        "name": "Perugia",
+        "code": "PG",
+        "region": "Umbria",
+        "pop": "645,506",
+        "area": "6,336.99 km(2,446.73 sq mi)",
+        "popdensity": "102"
+    },
+    {
+        "id": 66,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pesaro_and_Urbino",
+        "name": "Pesaro and Urbino",
+        "code": "PU",
+        "region": "Marche",
+        "pop": "353,272",
+        "area": "2,567.71 km(991.40 sq mi)",
+        "popdensity": "138"
+    },
+    {
+        "id": 67,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pescara",
+        "name": "Pescara",
+        "code": "PE",
+        "region": "Abruzzo",
+        "pop": "313,882",
+        "area": "1,230.29 km(475.02 sq mi)",
+        "popdensity": "255"
+    },
+    {
+        "id": 68,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Piacenza",
+        "name": "Piacenza",
+        "code": "PC",
+        "region": "Emilia-Romagna",
+        "pop": "283,742",
+        "area": "2,585.76 km(998.37 sq mi)",
+        "popdensity": "110"
+    },
+    {
+        "id": 69,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pisa",
+        "name": "Pisa",
+        "code": "PI",
+        "region": "Tuscany",
+        "pop": "417,983",
+        "area": "2,444.82 km(943.95 sq mi)",
+        "popdensity": "171"
+    },
+    {
+        "id": 70,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pistoia",
+        "name": "Pistoia",
+        "code": "PT",
+        "region": "Tuscany",
+        "pop": "290,245",
+        "area": "964.16 km(372.26 sq mi)",
+        "popdensity": "301"
+    },
+    {
+        "id": 71,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pordenone",
+        "name": "Pordenone",
+        "code": "PN",
+        "region": "Friuli-Venezia Giulia",
+        "pop": "310,634",
+        "area": "2,275.35 km(878.52 sq mi)",
+        "popdensity": "137"
+    },
+    {
+        "id": 72,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Potenza",
+        "name": "Potenza",
+        "code": "PZ",
+        "region": "Basilicata",
+        "pop": "352,490",
+        "area": "6,594.28 km(2,546.07 sq mi)",
+        "popdensity": "53"
+    },
+    {
+        "id": 73,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Prato",
+        "name": "Prato",
+        "code": "PO",
+        "region": "Tuscany",
+        "pop": "265,269",
+        "area": "365.66 km(141.18 sq mi)",
+        "popdensity": "725"
+    },
+    {
+        "id": 74,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ragusa",
+        "name": "Ragusa",
+        "code": "RG",
+        "region": "Sicily",
+        "pop": "314,910",
+        "area": "1,623.91 km(627.00 sq mi)",
+        "popdensity": "194"
+    },
+    {
+        "id": 75,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ravenna",
+        "name": "Ravenna",
+        "code": "RA",
+        "region": "Emilia-Romagna",
+        "pop": "386,643",
+        "area": "1,859.39 km(717.91 sq mi)",
+        "popdensity": "208"
+    },
+    {
+        "id": 76,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Reggio_Calabria",
+        "name": "Reggio Calabria",
+        "code": "RC",
+        "region": "Calabria",
+        "pop": "523,791",
+        "area": "3,210.31 km(1,239.51 sq mi)",
+        "popdensity": "163"
+    },
+    {
+        "id": 77,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Reggio_Emilia",
+        "name": "Reggio Emilia",
+        "code": "RE",
+        "region": "Emilia-Romagna",
+        "pop": "527,140",
+        "area": "2,291.15 km(884.62 sq mi)",
+        "popdensity": "230"
+    },
+    {
+        "id": 78,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rieti",
+        "name": "Rieti",
+        "code": "RI",
+        "region": "Lazio",
+        "pop": "151,335",
+        "area": "2,750.24 km(1,061.87 sq mi)",
+        "popdensity": "55"
+    },
+    {
+        "id": 79,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rimini",
+        "name": "Rimini",
+        "code": "RN",
+        "region": "Emilia-Romagna",
+        "pop": "337,777",
+        "area": "865.01 km(333.98 sq mi)",
+        "popdensity": "390"
+    },
+    {
+        "id": 80,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Rome_Capital",
+        "name": "Rome",
+        "code": "RM",
+        "region": "Lazio",
+        "pop": "4,231,451",
+        "area": "5,363.22 km(2,070.75 sq mi)",
+        "popdensity": "789"
+    },
+    {
+        "id": 81,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rovigo",
+        "name": "Rovigo",
+        "code": "RO",
+        "region": "Veneto",
+        "pop": "230,763",
+        "area": "1,819.86 km(702.65 sq mi)",
+        "popdensity": "127"
+    },
+    {
+        "id": 82,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Salerno",
+        "name": "Salerno",
+        "code": "SA",
+        "region": "Campania",
+        "pop": "1,065,967",
+        "area": "4,954.05 km(1,912.77 sq mi)",
+        "popdensity": "215"
+    },
+    {
+        "id": 83,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Sassari",
+        "name": "Sassari",
+        "code": "SS",
+        "region": "Sardinia",
+        "pop": "476,357",
+        "area": "7,691.75 km(2,969.80 sq mi)",
+        "popdensity": "62"
+    },
+    {
+        "id": 84,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Savona",
+        "name": "Savona",
+        "code": "SV",
+        "region": "Liguria",
+        "pop": "269,752",
+        "area": "1,546.27 km(597.02 sq mi)",
+        "popdensity": "174"
+    },
+    {
+        "id": 85,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Siena",
+        "name": "Siena",
+        "code": "SI",
+        "region": "Tuscany",
+        "pop": "263,801",
+        "area": "3,820.81 km(1,475.22 sq mi)",
+        "popdensity": "69"
+    },
+    {
+        "id": 86,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Sondrio",
+        "name": "Sondrio",
+        "code": "SO",
+        "region": "Lombardy",
+        "pop": "178,798",
+        "area": "3,195.68 km(1,233.86 sq mi)",
+        "popdensity": "56"
+    },
+    {
+        "id": 87,
+        "url": "https://en.wikipedia.org/wiki/Province_of_South_Sardinia",
+        "name": "South Sardinia",
+        "code": "SU",
+        "region": "Sardinia",
+        "pop": "338,264",
+        "area": "6,530.67 km(2,521.51 sq mi)",
+        "popdensity": "52"
+    },
+    {
+        "id": 88,
+        "url": "https://en.wikipedia.org/wiki/Bolzano",
+        "name": "Bolzano",
+        "code": "Trentino-South Tyrol",
+        "region": "North-East",
+        "pop": "7,397.86 km(2,856.33 sq mi)",
+        "area": "72",
+        "popdensity": "116"
+    },
+    {
+        "id": 89,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Syracuse",
+        "name": "Syracuse",
+        "code": "SR",
+        "region": "Sicily",
+        "pop": "386,071",
+        "area": "2,124.19 km(820.15 sq mi)",
+        "popdensity": "182"
+    },
+    {
+        "id": 90,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Taranto",
+        "name": "Taranto",
+        "code": "TA",
+        "region": "Apulia",
+        "pop": "561,958",
+        "area": "2,467.33 km(952.64 sq mi)",
+        "popdensity": "228"
+    },
+    {
+        "id": 91,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Teramo",
+        "name": "Teramo",
+        "code": "TE",
+        "region": "Abruzzo",
+        "pop": "301,104",
+        "area": "1,954.34 km(754.57 sq mi)",
+        "popdensity": "154"
+    },
+    {
+        "id": 92,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Terni",
+        "name": "Terni",
+        "code": "TR",
+        "region": "Umbria",
+        "pop": "219,946",
+        "area": "2,127.23 km(821.33 sq mi)",
+        "popdensity": "103"
+    },
+    {
+        "id": 93,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Trapani",
+        "name": "Trapani",
+        "code": "TP",
+        "region": "Sicily",
+        "pop": "418,277",
+        "area": "2,469.70 km(953.56 sq mi)",
+        "popdensity": "169"
+    },
+    {
+        "id": 94,
+        "url": "https://en.wikipedia.org/wiki/Trentino",
+        "name": "Trento",
+        "code": "TN",
+        "region": "Trentino-South Tyrol",
+        "pop": "542,166",
+        "area": "6,206.87 km(2,396.49 sq mi)",
+        "popdensity": "87"
+    },
+    {
+        "id": 95,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Treviso",
+        "name": "Treviso",
+        "code": "TV",
+        "region": "Veneto",
+        "pop": "880,417",
+        "area": "2,479.80 km(957.46 sq mi)",
+        "popdensity": "355"
+    },
+    {
+        "id": 96,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Trieste",
+        "name": "Trieste",
+        "code": "TS",
+        "region": "Friuli-Venezia Giulia",
+        "pop": "230,689",
+        "area": "212.50 km(82.05 sq mi)",
+        "popdensity": "1,086"
+    },
+    {
+        "id": 97,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Turin",
+        "name": "Turin",
+        "code": "TO",
+        "region": "Piedmont",
+        "pop": "2,219,206",
+        "area": "6,826.91 km(2,635.88 sq mi)",
+        "popdensity": "325"
+    },
+    {
+        "id": 98,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Udine",
+        "name": "Udine",
+        "code": "UD",
+        "region": "Friuli-Venezia Giulia",
+        "pop": "521,117",
+        "area": "4,969.23 km(1,918.63 sq mi)",
+        "popdensity": "105"
+    },
+    {
+        "id": 99,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Varese",
+        "name": "Varese",
+        "code": "VA",
+        "region": "Lombardy",
+        "pop": "880,093",
+        "area": "1,198.24 km(462.64 sq mi)",
+        "popdensity": "734"
+    },
+    {
+        "id": 100,
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Venice",
+        "name": "Venice",
+        "code": "VE",
+        "region": "Veneto",
+        "pop": "843,545",
+        "area": "2,472.88 km(954.78 sq mi)",
+        "popdensity": "341"
+    },
+    {
+        "id": 101,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Verbano-Cusio-Ossola",
+        "name": "Verbano-Cusio-Ossola",
+        "code": "VB",
+        "region": "Piedmont",
+        "pop": "154,926",
+        "area": "2,260.89 km(872.93 sq mi)",
+        "popdensity": "69"
+    },
+    {
+        "id": 102,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vercelli",
+        "name": "Vercelli",
+        "code": "VC",
+        "region": "Piedmont",
+        "pop": "166,584",
+        "area": "2,081.60 km(803.71 sq mi)",
+        "popdensity": "80"
+    },
+    {
+        "id": 103,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Verona",
+        "name": "Verona",
+        "code": "VR",
+        "region": "Veneto",
+        "pop": "927,810",
+        "area": "3,096.28 km(1,195.48 sq mi)",
+        "popdensity": "300"
+    },
+    {
+        "id": 104,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vibo_Valentia",
+        "name": "Vibo Valentia",
+        "code": "VV",
+        "region": "Calabria",
+        "pop": "152,193",
+        "area": "1,150.62 km(444.26 sq mi)",
+        "popdensity": "146"
+    },
+    {
+        "id": 105,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vicenza",
+        "name": "Vicenza",
+        "code": "VI",
+        "region": "Veneto",
+        "pop": "854,962",
+        "area": "2,722.45 km(1,051.14 sq mi)",
+        "popdensity": "314"
+    },
+    {
+        "id": 106,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Viterbo",
+        "name": "Viterbo",
+        "code": "VT",
+        "region": "Lazio",
+        "pop": "308,830",
+        "area": "3,615.16 km(1,395.82 sq mi)",
+        "popdensity": "85"
+    }
+]

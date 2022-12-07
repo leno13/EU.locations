@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Antwerp_Province",
+        "name": "Antwerp",
+        "area": "2,876 km (1,110 sq mi)",
+        "pop": "1,857,986",
+        "popdensity": "647/km (1,680/sq mi)",
+        "HASC": "BE.AN"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/East_Flanders",
+        "name": "East Flanders",
+        "area": "3,007 km (1,161 sq mi)",
+        "pop": "1,515,064",
+        "popdensity": "504/km (1,310/sq mi)",
+        "HASC": "BE.OV"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Flemish_Brabant",
+        "name": "Flemish Brabant",
+        "area": "2,118 km (818 sq mi)",
+        "pop": "1,146,175",
+        "popdensity": "542/km (1,400/sq mi)",
+        "HASC": "BE.VB"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Limburg_(Belgium)",
+        "name": "Limburg",
+        "area": "2,427 km (937 sq mi)",
+        "pop": "874,048",
+        "popdensity": "361/km (930/sq mi)",
+        "HASC": "BE.LI"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/West_Flanders",
+        "name": "West Flanders",
+        "area": "3,197 km (1,234 sq mi)",
+        "pop": "1,195,796",
+        "popdensity": "375/km (970/sq mi)",
+        "HASC": "BE.WV"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Hainaut_Province",
+        "name": "Hainaut",
+        "area": "3,813 km (1,472 sq mi)",
+        "pop": "1,344,241",
+        "popdensity": "353/km (910/sq mi)",
+        "HASC": "BE.HT"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Province",
+        "name": "Liège",
+        "area": "3,857 km (1,489 sq mi)",
+        "pop": "1,106,992",
+        "popdensity": "288/km (750/sq mi)",
+        "HASC": "BE.LG"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Luxembourg_(Belgium)",
+        "name": "Luxembourg",
+        "area": "4,459 km (1,722 sq mi)",
+        "pop": "284,638",
+        "popdensity": "64/km (170/sq mi)",
+        "HASC": "BE.LX"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Namur_Province",
+        "name": "Namur",
+        "area": "3,675 km (1,419 sq mi)",
+        "pop": "494,325",
+        "popdensity": "135/km (350/sq mi)",
+        "HASC": "BE.NA"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Walloon_Brabant",
+        "name": "Walloon Brabant",
+        "area": "1,097 km (424 sq mi)",
+        "pop": "403,599",
+        "popdensity": "368/km (950/sq mi)",
+        "HASC": "BE.BW"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Brussels",
+        "name": "Brussels Capital Region",
+        "area": "162.4 km (62.7 sq mi)",
+        "pop": "1,208,542",
+        "popdensity": "7,442/km (19,270/sq mi)",
+        "HASC": "BE.BR"
+    }
+]

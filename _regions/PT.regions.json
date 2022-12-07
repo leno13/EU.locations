@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Azores",
+        "name": "Azores",
+        "pop": "236,413",
+        "area": "2,322",
+        "popdensity": "106"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Aveiro_District",
+        "name": "Aveiro",
+        "pop": "700,787",
+        "area": "2,798",
+        "popdensity": "250"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Beja_District",
+        "name": "Beja",
+        "pop": "144,401",
+        "area": "10,229",
+        "popdensity": "14"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Braga_District",
+        "name": "Braga",
+        "pop": "846,293",
+        "area": "2,706",
+        "popdensity": "313"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Bragan%C3%A7a_District",
+        "name": "Bragança",
+        "pop": "122,804",
+        "area": "6,608",
+        "popdensity": "19"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Castelo_Branco_District",
+        "name": "Castelo Branco",
+        "pop": "177,962",
+        "area": "6,675",
+        "popdensity": "27"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Coimbra_District",
+        "name": "Coimbra",
+        "pop": "408,551",
+        "area": "3,947",
+        "popdensity": "104"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/%C3%89vora_District",
+        "name": "Évora",
+        "pop": "152,444",
+        "area": "7,393",
+        "popdensity": "21"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Faro_District",
+        "name": "Faro",
+        "pop": "467,343",
+        "area": "4,960",
+        "popdensity": "94"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Guarda_District",
+        "name": "Guarda",
+        "pop": "142,974",
+        "area": "5,518",
+        "popdensity": "26"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Leiria_District",
+        "name": "Leiria",
+        "pop": "458,605",
+        "area": "3,505",
+        "popdensity": "131"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Lisbon_District",
+        "name": "Lisbon",
+        "pop": "2,275,385",
+        "area": "2,761",
+        "popdensity": "824"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Madeira",
+        "name": "Madeira",
+        "pop": "250,744",
+        "area": "801",
+        "popdensity": "334"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Portalegre_District",
+        "name": "Portalegre",
+        "pop": "104,923",
+        "area": "6,065",
+        "popdensity": "17"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Porto_District",
+        "name": "Porto",
+        "pop": "1,785,405",
+        "area": "2,408",
+        "popdensity": "742"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Santar%C3%A9m_District",
+        "name": "Santarém",
+        "pop": "424,973",
+        "area": "6,747",
+        "popdensity": "63"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Set%C3%BAbal_District",
+        "name": "Setúbal",
+        "pop": "874,806",
+        "area": "5,064",
+        "popdensity": "173"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Viana_do_Castelo_District",
+        "name": "Viana do Castelo",
+        "pop": "231,266",
+        "area": "2,255",
+        "popdensity": "103"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Vila_Real_District",
+        "name": "Vila Real",
+        "pop": "185,695",
+        "area": "4,328",
+        "popdensity": "43"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Viseu_District",
+        "name": "Viseu",
+        "pop": "351,292",
+        "area": "5,007",
+        "popdensity": "70"
+    }
+]

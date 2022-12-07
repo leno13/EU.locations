@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/County_Antrim",
+        "name": "Antrim",
+        "province": "Ulster"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/County_Armagh",
+        "name": "Armagh",
+        "province": "Ulster"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/County_Carlow",
+        "name": "Carlow",
+        "province": "Leinster"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/County_Cavan",
+        "name": "Cavan",
+        "province": "Ulster"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/County_Clare",
+        "name": "Clare",
+        "province": "Munster"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/County_Cork",
+        "name": "Cork",
+        "province": "Munster"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/County_Donegal",
+        "name": "Donegal",
+        "province": "Ulster"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/County_Down",
+        "name": "Down",
+        "province": "Ulster"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/County_Dublin",
+        "name": "Dublin",
+        "province": "Leinster"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire%E2%80%93Rathdown",
+        "name": "Dún Laoghaire–Rathdown",
+        "province": "Leinster"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Fingal",
+        "name": "Fingal",
+        "province": "Leinster"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/South_Dublin",
+        "name": "South Dublin",
+        "province": "Leinster"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/County_Fermanagh",
+        "name": "Fermanagh",
+        "province": "Ulster"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/County_Galway",
+        "name": "Galway",
+        "province": "Connacht"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/County_Kerry",
+        "name": "Kerry",
+        "province": "Munster"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/County_Kildare",
+        "name": "Kildare",
+        "province": "Leinster"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/County_Kilkenny",
+        "name": "Kilkenny",
+        "province": "Leinster"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/County_Laois",
+        "name": "Laois",
+        "province": "Leinster"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/County_Leitrim",
+        "name": "Leitrim",
+        "province": "Connacht"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/County_Limerick",
+        "name": "Limerick",
+        "province": "Munster"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/County_Londonderry",
+        "name": "Londonderry",
+        "province": "Ulster"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/County_Longford",
+        "name": "Longford",
+        "province": "Leinster"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/County_Louth",
+        "name": "Louth",
+        "province": "Leinster"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/County_Mayo",
+        "name": "Mayo",
+        "province": "Connacht"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/County_Meath",
+        "name": "Meath",
+        "province": "Leinster"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/County_Monaghan",
+        "name": "Monaghan",
+        "province": "Ulster"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/County_Offaly",
+        "name": "Offaly",
+        "province": "Leinster"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/County_Roscommon",
+        "name": "Roscommon",
+        "province": "Connacht"
+    },
+    {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/County_Sligo",
+        "name": "Sligo",
+        "province": "Connacht"
+    },
+    {
+        "id": 29,
+        "url": "https://en.wikipedia.org/wiki/County_Tipperary",
+        "name": "Tipperary",
+        "province": "Munster"
+    },
+    {
+        "id": 30,
+        "url": "https://en.wikipedia.org/wiki/County_Tyrone",
+        "name": "Tyrone",
+        "province": "Ulster"
+    },
+    {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/County_Waterford",
+        "name": "Waterford",
+        "province": "Munster"
+    },
+    {
+        "id": 32,
+        "url": "https://en.wikipedia.org/wiki/County_Westmeath",
+        "name": "Westmeath",
+        "province": "Leinster"
+    },
+    {
+        "id": 33,
+        "url": "https://en.wikipedia.org/wiki/County_Wexford",
+        "name": "Wexford",
+        "province": "Leinster"
+    },
+    {
+        "id": 34,
+        "url": "https://en.wikipedia.org/wiki/County_Wicklow",
+        "name": "Wicklow",
+        "province": "Leinster"
+    }
+]

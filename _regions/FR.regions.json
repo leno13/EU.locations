@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "name": "Auvergne-Rhône-Alpes(Auvergne-Rhône-Alps)",
+        "area": "69,711",
+        "pop": "8,042,936"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "name": "Bourgogne-Franche-Comté(Burgundy-Free County)",
+        "area": "47,784",
+        "pop": "2,805,580"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Brittany_(administrative_region)",
+        "name": "Bretagne(Brittany)",
+        "area": "27,208",
+        "pop": "3,354,854"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "name": "Centre-Val de Loire(Centre-Loire Valley)",
+        "area": "39,151",
+        "pop": "2,573,180"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Corsica",
+        "name": "Corse(Corsica)",
+        "area": "8,680",
+        "pop": "340,440"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Grand_Est",
+        "name": "Grand Est(Great East)",
+        "area": "57,441",
+        "pop": "5,556,219"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "name": "Hauts-de-France(Upper France)",
+        "area": "31,806",
+        "pop": "6,004,947"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/%C3%8Ele-de-France",
+        "name": "Île-de-France(Island of France)",
+        "area": "12,011",
+        "pop": "12,997,058"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Normandy_(administrative_region)",
+        "name": "Normandie(Normandy)",
+        "area": "29,907",
+        "pop": "3,325,032"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "name": "Nouvelle-Aquitaine(New Aquitaine)",
+        "area": "84,036",
+        "pop": "6,010,289"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
+        "name": "Occitanie\n(Occitania)",
+        "area": "72,724",
+        "pop": "5,933,185"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Pays_de_la_Loire",
+        "name": "Pays de la Loire(Loire Countries)",
+        "area": "32,082",
+        "pop": "3,806,461"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
+        "name": "Provence-Alpes-Côte d'Azur(Provence-Alps-Azure Coast)",
+        "area": "31,400",
+        "pop": "5,081,101"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Guadeloupe",
+        "name": "Guadeloupe",
+        "area": "1,628",
+        "pop": "384,239"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/French_Guiana",
+        "name": "Guyane(French Guiana)",
+        "area": "83,534",
+        "pop": "281,678"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/R%C3%A9union",
+        "name": "La Réunion(Réunion)",
+        "area": "2,504",
+        "pop": "861,210"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Martinique",
+        "name": "Martinique",
+        "area": "1,128",
+        "pop": "364,508"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Mayotte",
+        "name": "Mayotte",
+        "area": "374",
+        "pop": "262,895"
+    }
+]

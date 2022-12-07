@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Luxembourg_(canton)",
+        "name": "Luxembourg",
+        "pop": "182,607"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Esch-sur-Alzette_(canton)",
+        "name": "Esch-sur-Alzette",
+        "pop": "176,820"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Capellen_(canton)",
+        "name": "Capellen",
+        "pop": "48,187"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Diekirch_(canton)",
+        "name": "Diekirch",
+        "pop": "32,543"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Mersch_(canton)",
+        "name": "Mersch",
+        "pop": "32,112"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Grevenmacher_(canton)",
+        "name": "Grevenmacher",
+        "pop": "29,828"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Remich_(canton)",
+        "name": "Remich",
+        "pop": "22,366"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Echternach_(canton)",
+        "name": "Echternach",
+        "pop": "18,899"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Redange_(canton)",
+        "name": "Redange",
+        "pop": "18,664"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Clervaux_(canton)",
+        "name": "Clervaux",
+        "pop": "18,081"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Wiltz_(canton)",
+        "name": "Wiltz",
+        "pop": "16,735"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Vianden_(canton)",
+        "name": "Vianden",
+        "pop": "5,163"
+    }
+]

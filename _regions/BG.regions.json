@@ -1,0 +1,226 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Blagoevgrad_Province",
+        "name": "Blagoevgrad",
+        "pop": "323,552",
+        "area": "6,449.47",
+        "popdensity": "50.17"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Burgas_Province",
+        "name": "Burgas",
+        "pop": "415,817",
+        "area": "7,748.07",
+        "popdensity": "54.58"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Dobrich_Province",
+        "name": "Dobrich",
+        "pop": "189,677",
+        "area": "4,719.71",
+        "popdensity": "40.36"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Gabrovo_Province",
+        "name": "Gabrovo",
+        "pop": "122,702",
+        "area": "2,023.01",
+        "popdensity": "59.77"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Haskovo_Province",
+        "name": "Haskovo",
+        "pop": "246,238",
+        "area": "5,533.29",
+        "popdensity": "61.06"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Kardzhali_Province",
+        "name": "Kardzhali",
+        "pop": "152,808",
+        "area": "3,209.11",
+        "popdensity": "37.90"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Kyustendil_Province",
+        "name": "Kyustendil",
+        "pop": "136,686",
+        "area": "3,051.52",
+        "popdensity": "45.16"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Lovech_Province",
+        "name": "Lovech",
+        "pop": "141,422",
+        "area": "4,128.76",
+        "popdensity": "34.21"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Montana_Province",
+        "name": "Montana",
+        "pop": "148,098",
+        "area": "3,635.38",
+        "popdensity": "41.20"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Pazardzhik_Province",
+        "name": "Pazardzhik",
+        "pop": "275,548",
+        "area": "4,456.92",
+        "popdensity": "62.72"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Pernik_Province",
+        "name": "Pernik",
+        "pop": "133,530",
+        "area": "2,394.22",
+        "popdensity": "56.18"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Pleven_Province",
+        "name": "Pleven",
+        "pop": "269,752",
+        "area": "4,653.32",
+        "popdensity": "63.98"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Plovdiv_Province",
+        "name": "Plovdiv",
+        "pop": "683,027",
+        "area": "5,972.89",
+        "popdensity": "114.35"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Razgrad_Province",
+        "name": "Razgrad",
+        "pop": "125,190",
+        "area": "2,639.74",
+        "popdensity": "47.28"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Ruse_Province",
+        "name": "Ruse",
+        "pop": "235,252",
+        "area": "2,803.36",
+        "popdensity": "89.93"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Shumen_Province",
+        "name": "Shumen",
+        "pop": "180,528",
+        "area": "3,389.68",
+        "popdensity": "53.65"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Silistra_Province",
+        "name": "Silistra",
+        "pop": "119,474",
+        "area": "2,846.29",
+        "popdensity": "41.74"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Sliven_Province",
+        "name": "Sliven",
+        "pop": "197,473",
+        "area": "3,544.07",
+        "popdensity": "54.16"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Smolyan_Province",
+        "name": "Smolyan",
+        "pop": "121,752",
+        "area": "3,192.85",
+        "popdensity": "34.47"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Sofia_City_Province",
+        "name": "Sofia City",
+        "pop": "1,291,591",
+        "area": "1,348.90",
+        "popdensity": "957.44"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Sofia_Province",
+        "name": "Sofia (province)",
+        "pop": "247,489",
+        "area": "7,062.33",
+        "popdensity": "34.01"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/Stara_Zagora_Province",
+        "name": "Stara Zagora",
+        "pop": "333,265",
+        "area": "5,151.12",
+        "popdensity": "67.20"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/Targovishte_Province",
+        "name": "Targovishte",
+        "pop": "120,818",
+        "area": "2,558.53",
+        "popdensity": "44.17"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/Varna_Province",
+        "name": "Varna",
+        "pop": "475,074",
+        "area": "3,819.47",
+        "popdensity": "124.40"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/Veliko_Tarnovo_Province",
+        "name": "Veliko Tarnovo",
+        "pop": "258,494",
+        "area": "4,661.57",
+        "popdensity": "55.19"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/Vidin_Province",
+        "name": "Vidin",
+        "pop": "101,018",
+        "area": "3,032.88",
+        "popdensity": "32.89"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/Vratsa_Province",
+        "name": "Vratsa",
+        "pop": "186,848",
+        "area": "3,619.77",
+        "popdensity": "45.59"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Yambol_Province",
+        "name": "Yambol",
+        "pop": "131,447",
+        "area": "3,355.48",
+        "popdensity": "31.23"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Mura_Statistical_Region",
+        "name": "Mura",
+        "NUTS": "SI011",
+        "area": "1,337",
+        "pop": "114,287"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Drava_Statistical_Region",
+        "name": "Drava",
+        "NUTS": "SI012",
+        "area": "2,170",
+        "pop": "324,104"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Carinthia_Statistical_Region",
+        "name": "Carinthia",
+        "NUTS": "SI013",
+        "area": "1,041",
+        "pop": "70,588"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Savinja_Statistical_Region",
+        "name": "Savinja",
+        "NUTS": "SI014",
+        "area": "2,384",
+        "pop": "261,851"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Central_Sava_Statistical_Region",
+        "name": "Central Sava",
+        "NUTS": "SI015",
+        "area": "264",
+        "pop": "41,606"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Lower_Sava_Statistical_Region",
+        "name": "Lower Sava",
+        "NUTS": "SI016",
+        "area": "885",
+        "pop": "70,067"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Southeast_Slovenia_Statistical_Region",
+        "name": "Southeast Slovenia",
+        "NUTS": "SI017",
+        "area": "2,675",
+        "pop": "144,032"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Littoral%E2%80%93Inner_Carniola_Statistical_Region",
+        "name": "Littoral–Inner Carniola",
+        "NUTS": "SI018",
+        "area": "1,456",
+        "pop": "52,544"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Central_Slovenia_Statistical_Region",
+        "name": "Central Slovenia",
+        "NUTS": "SI021",
+        "area": "2,555",
+        "pop": "564,527"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Upper_Carniola_Statistical_Region",
+        "name": "Upper Carniola",
+        "NUTS": "SI022",
+        "area": "2,137",
+        "pop": "204,670"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Gorizia_Statistical_Region",
+        "name": "Gorizia",
+        "NUTS": "SI023",
+        "area": "2,325",
+        "pop": "117,616"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Coastal%E2%80%93Karst_Statistical_Region",
+        "name": "Coastal–Karst",
+        "NUTS": "SI024",
+        "area": "1,044",
+        "pop": "115,016"
+    }
+]

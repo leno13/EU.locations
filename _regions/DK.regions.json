@@ -1,0 +1,884 @@
+[
+    {
+        "id": 0,
+        "LAU1": "101",
+        "url": "https://en.wikipedia.org/wiki/Copenhagen_Municipality",
+        "name": "Copenhagen",
+        "area": "86.60",
+        "pop": "549,050",
+        "region": "Capital"
+    },
+    {
+        "id": 1,
+        "LAU1": "751",
+        "url": "https://en.wikipedia.org/wiki/Aarhus_Municipality",
+        "name": "Aarhus",
+        "area": "467.8",
+        "pop": "314,545",
+        "region": "Central"
+    },
+    {
+        "id": 2,
+        "LAU1": "851",
+        "url": "https://en.wikipedia.org/wiki/Aalborg_Municipality",
+        "name": "Aalborg",
+        "area": "1137.2",
+        "pop": "201,142",
+        "region": "North"
+    },
+    {
+        "id": 3,
+        "LAU1": "461",
+        "url": "https://en.wikipedia.org/wiki/Odense_Municipality",
+        "name": "Odense",
+        "area": "305.7",
+        "pop": "191,610",
+        "region": "South"
+    },
+    {
+        "id": 4,
+        "LAU1": "561",
+        "url": "https://en.wikipedia.org/wiki/Esbjerg_Municipality",
+        "name": "Esbjerg",
+        "area": "794.7",
+        "pop": "115,112",
+        "region": "South"
+    },
+    {
+        "id": 5,
+        "LAU1": "630",
+        "url": "https://en.wikipedia.org/wiki/Vejle_Municipality",
+        "name": "Vejle",
+        "area": "1058.8",
+        "pop": "108,021",
+        "region": "South"
+    },
+    {
+        "id": 6,
+        "LAU1": "147",
+        "url": "https://en.wikipedia.org/wiki/Frederiksberg_Municipality",
+        "name": "Frederiksberg",
+        "area": "8.1",
+        "pop": "100,215",
+        "region": "Capital"
+    },
+    {
+        "id": 7,
+        "LAU1": "730",
+        "url": "https://en.wikipedia.org/wiki/Randers_Municipality",
+        "name": "Randers",
+        "area": "747.6",
+        "pop": "95,756",
+        "region": "Central"
+    },
+    {
+        "id": 8,
+        "LAU1": "791",
+        "url": "https://en.wikipedia.org/wiki/Viborg_Municipality",
+        "name": "Viborg",
+        "area": "1408.7",
+        "pop": "93,819",
+        "region": "Central"
+    },
+    {
+        "id": 9,
+        "LAU1": "621",
+        "url": "https://en.wikipedia.org/wiki/Kolding_Municipality",
+        "name": "Kolding",
+        "area": "607.1",
+        "pop": "89,412",
+        "region": "South"
+    },
+    {
+        "id": 10,
+        "LAU1": "740",
+        "url": "https://en.wikipedia.org/wiki/Silkeborg_Municipality",
+        "name": "Silkeborg",
+        "area": "850.5",
+        "pop": "89,328",
+        "region": "Central"
+    },
+    {
+        "id": 11,
+        "LAU1": "657",
+        "url": "https://en.wikipedia.org/wiki/Herning_Municipality",
+        "name": "Herning",
+        "area": "1321.4",
+        "pop": "86,348",
+        "region": "Central"
+    },
+    {
+        "id": 12,
+        "LAU1": "615",
+        "url": "https://en.wikipedia.org/wiki/Horsens_Municipality",
+        "name": "Horsens",
+        "area": "519.8",
+        "pop": "83,598",
+        "region": "Central"
+    },
+    {
+        "id": 13,
+        "LAU1": "265",
+        "url": "https://en.wikipedia.org/wiki/Roskilde_Municipality",
+        "name": "Roskilde",
+        "area": "211.9",
+        "pop": "83,137",
+        "region": "Zealand"
+    },
+    {
+        "id": 14,
+        "LAU1": "370",
+        "url": "https://en.wikipedia.org/wiki/N%C3%A6stved_Municipality",
+        "name": "Næstved",
+        "area": "676.3",
+        "pop": "81,012",
+        "region": "Zealand"
+    },
+    {
+        "id": 15,
+        "LAU1": "330",
+        "url": "https://en.wikipedia.org/wiki/Slagelse_Municipality",
+        "name": "Slagelse",
+        "area": "567.9",
+        "pop": "77,310",
+        "region": "Zealand"
+    },
+    {
+        "id": 16,
+        "LAU1": "540",
+        "url": "https://en.wikipedia.org/wiki/S%C3%B8nderborg_Municipality",
+        "name": "Sønderborg",
+        "area": "496.8",
+        "pop": "76,094",
+        "region": "South"
+    },
+    {
+        "id": 17,
+        "LAU1": "157",
+        "url": "https://en.wikipedia.org/wiki/Gentofte_Municipality",
+        "name": "Gentofte",
+        "area": "25.6",
+        "pop": "72,814",
+        "region": "Capital"
+    },
+    {
+        "id": 18,
+        "LAU1": "316",
+        "url": "https://en.wikipedia.org/wiki/Holb%C3%A6k_Municipality",
+        "name": "Holbæk",
+        "area": "577.3",
+        "pop": "69,415",
+        "region": "Zealand"
+    },
+    {
+        "id": 19,
+        "LAU1": "860",
+        "url": "https://en.wikipedia.org/wiki/Hj%C3%B8rring_Municipality",
+        "name": "Hjørring",
+        "area": "926.2",
+        "pop": "66,178",
+        "region": "North"
+    },
+    {
+        "id": 20,
+        "LAU1": "159",
+        "url": "https://en.wikipedia.org/wiki/Gladsaxe_Municipality",
+        "name": "Gladsaxe",
+        "area": "24.9",
+        "pop": "65,303",
+        "region": "Capital"
+    },
+    {
+        "id": 21,
+        "LAU1": "376",
+        "url": "https://en.wikipedia.org/wiki/Guldborgsund_Municipality",
+        "name": "Guldborgsund",
+        "area": "899.7",
+        "pop": "61,913",
+        "region": "Zealand"
+    },
+    {
+        "id": 22,
+        "LAU1": "217",
+        "url": "https://en.wikipedia.org/wiki/Helsing%C3%B8r_Municipality",
+        "name": "Helsingør",
+        "area": "118.9",
+        "pop": "61,493",
+        "region": "Capital"
+    },
+    {
+        "id": 23,
+        "LAU1": "813",
+        "url": "https://en.wikipedia.org/wiki/Frederikshavn_Municipality",
+        "name": "Frederikshavn",
+        "area": "650.3",
+        "pop": "61,158",
+        "region": "North"
+    },
+    {
+        "id": 24,
+        "LAU1": "580",
+        "url": "https://en.wikipedia.org/wiki/Aabenraa_Municipality",
+        "name": "Aabenraa",
+        "area": "940.7",
+        "pop": "59,600",
+        "region": "South"
+    },
+    {
+        "id": 25,
+        "LAU1": "479",
+        "url": "https://en.wikipedia.org/wiki/Svendborg_Municipality",
+        "name": "Svendborg",
+        "area": "415.5",
+        "pop": "58,551",
+        "region": "South"
+    },
+    {
+        "id": 26,
+        "LAU1": "746",
+        "url": "https://en.wikipedia.org/wiki/Skanderborg_Municipality",
+        "name": "Skanderborg",
+        "area": "416.7",
+        "pop": "58,008",
+        "region": "Central"
+    },
+    {
+        "id": 27,
+        "LAU1": "760",
+        "url": "https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality",
+        "name": "Ringkøbing-Skjern",
+        "area": "1469.6",
+        "pop": "57,892",
+        "region": "Central"
+    },
+    {
+        "id": 28,
+        "LAU1": "259",
+        "url": "https://en.wikipedia.org/wiki/K%C3%B8ge_Municipality",
+        "name": "Køge",
+        "area": "256.5",
+        "pop": "57,307",
+        "region": "Zealand"
+    },
+    {
+        "id": 29,
+        "LAU1": "661",
+        "url": "https://en.wikipedia.org/wiki/Holstebro_Municipality",
+        "name": "Holstebro",
+        "area": "793",
+        "pop": "57,153",
+        "region": "Central"
+    },
+    {
+        "id": 30,
+        "LAU1": "510",
+        "url": "https://en.wikipedia.org/wiki/Haderslev_Municipality",
+        "name": "Haderslev",
+        "area": "815.9",
+        "pop": "56,188",
+        "region": "South"
+    },
+    {
+        "id": 31,
+        "LAU1": "230",
+        "url": "https://en.wikipedia.org/wiki/Rudersdal_Municipality",
+        "name": "Rudersdal",
+        "area": "73.4",
+        "pop": "54,630",
+        "region": "Capital"
+    },
+    {
+        "id": 32,
+        "LAU1": "173",
+        "url": "https://en.wikipedia.org/wiki/Lyngby-Taarb%C3%A6k_Municipality",
+        "name": "Lyngby-Taarbæk",
+        "area": "38.8",
+        "pop": "53,251",
+        "region": "Capital"
+    },
+    {
+        "id": 33,
+        "LAU1": "430",
+        "url": "https://en.wikipedia.org/wiki/Faaborg-Midtfyn_Municipality",
+        "name": "Faaborg-Midtfyn",
+        "area": "633.7",
+        "pop": "51,635",
+        "region": "South"
+    },
+    {
+        "id": 34,
+        "LAU1": "167",
+        "url": "https://en.wikipedia.org/wiki/Hvidovre_Municipality",
+        "name": "Hvidovre",
+        "area": "23",
+        "pop": "50,600",
+        "region": "Capital"
+    },
+    {
+        "id": 35,
+        "LAU1": "573",
+        "url": "https://en.wikipedia.org/wiki/Varde_Municipality",
+        "name": "Varde",
+        "area": "1240",
+        "pop": "50,193",
+        "region": "South"
+    },
+    {
+        "id": 36,
+        "LAU1": "607",
+        "url": "https://en.wikipedia.org/wiki/Fredericia_Municipality",
+        "name": "Fredericia",
+        "area": "133.6",
+        "pop": "50,193",
+        "region": "South"
+    },
+    {
+        "id": 37,
+        "LAU1": "326",
+        "url": "https://en.wikipedia.org/wiki/Kalundborg_Municipality",
+        "name": "Kalundborg",
+        "area": "575.2",
+        "pop": "48,632",
+        "region": "Zealand"
+    },
+    {
+        "id": 38,
+        "LAU1": "219",
+        "url": "https://en.wikipedia.org/wiki/Hiller%C3%B8d_Municipality",
+        "name": "Hillerød",
+        "area": "214.9",
+        "pop": "48,203",
+        "region": "Capital"
+    },
+    {
+        "id": 39,
+        "LAU1": "169",
+        "url": "https://en.wikipedia.org/wiki/H%C3%B8je-Taastrup_Municipality",
+        "name": "Høje-Taastrup",
+        "area": "78.4",
+        "pop": "48,081",
+        "region": "Capital"
+    },
+    {
+        "id": 40,
+        "LAU1": "151",
+        "url": "https://en.wikipedia.org/wiki/Ballerup_Municipality",
+        "name": "Ballerup",
+        "area": "33.8",
+        "pop": "47,994",
+        "region": "Capital"
+    },
+    {
+        "id": 41,
+        "LAU1": "253",
+        "url": "https://en.wikipedia.org/wiki/Greve_Municipality",
+        "name": "Greve",
+        "area": "60.4",
+        "pop": "47,942",
+        "region": "Zealand"
+    },
+    {
+        "id": 42,
+        "LAU1": "779",
+        "url": "https://en.wikipedia.org/wiki/Skive_Municipality",
+        "name": "Skive",
+        "area": "683.3",
+        "pop": "47,620",
+        "region": "Central"
+    },
+    {
+        "id": 43,
+        "LAU1": "710",
+        "url": "https://en.wikipedia.org/wiki/Favrskov_Municipality",
+        "name": "Favrskov",
+        "area": "540.3",
+        "pop": "47,117",
+        "region": "Central"
+    },
+    {
+        "id": 44,
+        "LAU1": "766",
+        "url": "https://en.wikipedia.org/wiki/Hedensted_Municipality",
+        "name": "Hedensted",
+        "area": "551.3",
+        "pop": "46,029",
+        "region": "Central"
+    },
+    {
+        "id": 45,
+        "LAU1": "390",
+        "url": "https://en.wikipedia.org/wiki/Vordingborg_Municipality",
+        "name": "Vordingborg",
+        "area": "619.5",
+        "pop": "45,804",
+        "region": "Zealand"
+    },
+    {
+        "id": 46,
+        "LAU1": "360",
+        "url": "https://en.wikipedia.org/wiki/Lolland_Municipality",
+        "name": "Lolland",
+        "area": "881.9",
+        "pop": "45,241",
+        "region": "Zealand"
+    },
+    {
+        "id": 47,
+        "LAU1": "787",
+        "url": "https://en.wikipedia.org/wiki/Thisted_Municipality",
+        "name": "Thisted",
+        "area": "1068.6",
+        "pop": "44,908",
+        "region": "North"
+    },
+    {
+        "id": 48,
+        "LAU1": "250",
+        "url": "https://en.wikipedia.org/wiki/Frederikssund_Municipality",
+        "name": "Frederikssund",
+        "area": "247",
+        "pop": "44,345",
+        "region": "Capital"
+    },
+    {
+        "id": 49,
+        "LAU1": "575",
+        "url": "https://en.wikipedia.org/wiki/Vejen_Municipality",
+        "name": "Vejen",
+        "area": "813.5",
+        "pop": "42,785",
+        "region": "South"
+    },
+    {
+        "id": 50,
+        "LAU1": "846",
+        "url": "https://en.wikipedia.org/wiki/Mariagerfjord_Municipality",
+        "name": "Mariagerfjord",
+        "area": "718.2",
+        "pop": "42,429",
+        "region": "North"
+    },
+    {
+        "id": 51,
+        "LAU1": "240",
+        "url": "https://en.wikipedia.org/wiki/Egedal_Municipality",
+        "name": "Egedal",
+        "area": "125.8",
+        "pop": "41,821",
+        "region": "Capital"
+    },
+    {
+        "id": 52,
+        "LAU1": "706",
+        "url": "https://en.wikipedia.org/wiki/Syddjurs_Municipality",
+        "name": "Syddjurs",
+        "area": "689.8",
+        "pop": "41,815",
+        "region": "Central"
+    },
+    {
+        "id": 53,
+        "LAU1": "420",
+        "url": "https://en.wikipedia.org/wiki/Assens_Municipality",
+        "name": "Assens",
+        "area": "511.3",
+        "pop": "41,443",
+        "region": "South"
+    },
+    {
+        "id": 54,
+        "LAU1": "400",
+        "url": "https://en.wikipedia.org/wiki/Bornholm",
+        "name": "Bornholm",
+        "area": "588.1",
+        "pop": "41,303",
+        "region": "Capital"
+    },
+    {
+        "id": 55,
+        "LAU1": "185",
+        "url": "https://en.wikipedia.org/wiki/T%C3%A5rnby_Municipality",
+        "name": "Tårnby",
+        "area": "66",
+        "pop": "41,151",
+        "region": "Capital"
+    },
+    {
+        "id": 56,
+        "LAU1": "756",
+        "url": "https://en.wikipedia.org/wiki/Ikast-Brande_Municipality",
+        "name": "Ikast-Brande",
+        "area": "733.4",
+        "pop": "40,658",
+        "region": "Central"
+    },
+    {
+        "id": 57,
+        "LAU1": "270",
+        "url": "https://en.wikipedia.org/wiki/Gribskov_Municipality",
+        "name": "Gribskov",
+        "area": "279.5",
+        "pop": "40,603",
+        "region": "Capital"
+    },
+    {
+        "id": 58,
+        "LAU1": "210",
+        "url": "https://en.wikipedia.org/wiki/Fredensborg_Municipality",
+        "name": "Fredensborg",
+        "area": "112.1",
+        "pop": "39,565",
+        "region": "Capital"
+    },
+    {
+        "id": 59,
+        "LAU1": "550",
+        "url": "https://en.wikipedia.org/wiki/T%C3%B8nder_Municipality",
+        "name": "Tønder",
+        "area": "1281.8",
+        "pop": "39,083",
+        "region": "South"
+    },
+    {
+        "id": 60,
+        "LAU1": "849",
+        "url": "https://en.wikipedia.org/wiki/Jammerbugt_Municipality",
+        "name": "Jammerbugt",
+        "area": "863.9",
+        "pop": "38,611",
+        "region": "North"
+    },
+    {
+        "id": 61,
+        "LAU1": "190",
+        "url": "https://en.wikipedia.org/wiki/Fures%C3%B8_Municipality",
+        "name": "Furesø",
+        "area": "56.8",
+        "pop": "38,243",
+        "region": "Capital"
+    },
+    {
+        "id": 62,
+        "LAU1": "707",
+        "url": "https://en.wikipedia.org/wiki/Norddjurs_Municipality",
+        "name": "Norddjurs",
+        "area": "720.9",
+        "pop": "37,876",
+        "region": "Central"
+    },
+    {
+        "id": 63,
+        "LAU1": "410",
+        "url": "https://en.wikipedia.org/wiki/Middelfart_Municipality",
+        "name": "Middelfart",
+        "area": "298.8",
+        "pop": "37,612",
+        "region": "South"
+    },
+    {
+        "id": 64,
+        "LAU1": "820",
+        "url": "https://en.wikipedia.org/wiki/Vesthimmerland_Municipality",
+        "name": "Vesthimmerland",
+        "area": "769.9",
+        "pop": "37,534",
+        "region": "North"
+    },
+    {
+        "id": 65,
+        "LAU1": "175",
+        "url": "https://en.wikipedia.org/wiki/R%C3%B8dovre_Municipality",
+        "name": "Rødovre",
+        "area": "12.1",
+        "pop": "36,883",
+        "region": "Capital"
+    },
+    {
+        "id": 66,
+        "LAU1": "810",
+        "url": "https://en.wikipedia.org/wiki/Br%C3%B8nderslev_Municipality",
+        "name": "Brønderslev",
+        "area": "633",
+        "pop": "35,754",
+        "region": "North"
+    },
+    {
+        "id": 67,
+        "LAU1": "320",
+        "url": "https://en.wikipedia.org/wiki/Faxe_Municipality",
+        "name": "Faxe",
+        "area": "405",
+        "pop": "35,110",
+        "region": "Zealand"
+    },
+    {
+        "id": 68,
+        "LAU1": "153",
+        "url": "https://en.wikipedia.org/wiki/Br%C3%B8ndby_Municipality",
+        "name": "Brøndby",
+        "area": "21",
+        "pop": "34,084",
+        "region": "Capital"
+    },
+    {
+        "id": 69,
+        "LAU1": "329",
+        "url": "https://en.wikipedia.org/wiki/Ringsted_Municipality",
+        "name": "Ringsted",
+        "area": "294.6",
+        "pop": "33,153",
+        "region": "Zealand"
+    },
+    {
+        "id": 70,
+        "LAU1": "306",
+        "url": "https://en.wikipedia.org/wiki/Odsherred_Municipality",
+        "name": "Odsherred",
+        "area": "354",
+        "pop": "32,640",
+        "region": "Zealand"
+    },
+    {
+        "id": 71,
+        "LAU1": "450",
+        "url": "https://en.wikipedia.org/wiki/Nyborg_Municipality",
+        "name": "Nyborg",
+        "area": "276.7",
+        "pop": "31,486",
+        "region": "South"
+    },
+    {
+        "id": 72,
+        "LAU1": "260",
+        "url": "https://en.wikipedia.org/wiki/Halsn%C3%A6s_Municipality",
+        "name": "Halsnæs",
+        "area": "121.8",
+        "pop": "30,980",
+        "region": "Capital"
+    },
+    {
+        "id": 73,
+        "LAU1": "340",
+        "url": "https://en.wikipedia.org/wiki/Sor%C3%B8_Municipality",
+        "name": "Sorø",
+        "area": "308.4",
+        "pop": "29,393",
+        "region": "Zealand"
+    },
+    {
+        "id": 74,
+        "LAU1": "480",
+        "url": "https://en.wikipedia.org/wiki/Nordfyn_Municipality",
+        "name": "Nordfyn",
+        "area": "452.3",
+        "pop": "29,330",
+        "region": "South"
+    },
+    {
+        "id": 75,
+        "LAU1": "840",
+        "url": "https://en.wikipedia.org/wiki/Rebild_Municipality",
+        "name": "Rebild",
+        "area": "621.3",
+        "pop": "28,911",
+        "region": "North"
+    },
+    {
+        "id": 76,
+        "LAU1": "165",
+        "url": "https://en.wikipedia.org/wiki/Albertslund_Municipality",
+        "name": "Albertslund",
+        "area": "23.2",
+        "pop": "27,864",
+        "region": "Capital"
+    },
+    {
+        "id": 77,
+        "LAU1": "350",
+        "url": "https://en.wikipedia.org/wiki/Lejre_Municipality",
+        "name": "Lejre",
+        "area": "238.9",
+        "pop": "26,887",
+        "region": "Zealand"
+    },
+    {
+        "id": 78,
+        "LAU1": "163",
+        "url": "https://en.wikipedia.org/wiki/Herlev_Municipality",
+        "name": "Herlev",
+        "area": "12.1",
+        "pop": "26,608",
+        "region": "Capital"
+    },
+    {
+        "id": 79,
+        "LAU1": "530",
+        "url": "https://en.wikipedia.org/wiki/Billund_Municipality",
+        "name": "Billund",
+        "area": "540.3",
+        "pop": "26,220",
+        "region": "South"
+    },
+    {
+        "id": 80,
+        "LAU1": "223",
+        "url": "https://en.wikipedia.org/wiki/H%C3%B8rsholm_Municipality",
+        "name": "Hørsholm",
+        "area": "31.3",
+        "pop": "24,365",
+        "region": "Capital"
+    },
+    {
+        "id": 81,
+        "LAU1": "201",
+        "url": "https://en.wikipedia.org/wiki/Aller%C3%B8d_Municipality",
+        "name": "Allerød",
+        "area": "67.5",
+        "pop": "24,043",
+        "region": "Capital"
+    },
+    {
+        "id": 82,
+        "LAU1": "440",
+        "url": "https://en.wikipedia.org/wiki/Kerteminde_Municipality",
+        "name": "Kerteminde",
+        "area": "205.8",
+        "pop": "23,793",
+        "region": "South"
+    },
+    {
+        "id": 83,
+        "LAU1": "671",
+        "url": "https://en.wikipedia.org/wiki/Struer_Municipality",
+        "name": "Struer",
+        "area": "246.2",
+        "pop": "22,098",
+        "region": "Central"
+    },
+    {
+        "id": 84,
+        "LAU1": "336",
+        "url": "https://en.wikipedia.org/wiki/Stevns_Municipality",
+        "name": "Stevns",
+        "area": "250.2",
+        "pop": "21,855",
+        "region": "Zealand"
+    },
+    {
+        "id": 85,
+        "LAU1": "727",
+        "url": "https://en.wikipedia.org/wiki/Odder_Municipality",
+        "name": "Odder",
+        "area": "223.6",
+        "pop": "21,749",
+        "region": "Central"
+    },
+    {
+        "id": 86,
+        "LAU1": "161",
+        "url": "https://en.wikipedia.org/wiki/Glostrup_Municipality",
+        "name": "Glostrup",
+        "area": "13.3",
+        "pop": "21,650",
+        "region": "Capital"
+    },
+    {
+        "id": 87,
+        "LAU1": "773",
+        "url": "https://en.wikipedia.org/wiki/Mors%C3%B8_Municipality",
+        "name": "Morsø",
+        "area": "366.5",
+        "pop": "21,474",
+        "region": "North"
+    },
+    {
+        "id": 88,
+        "LAU1": "665",
+        "url": "https://en.wikipedia.org/wiki/Lemvig_Municipality",
+        "name": "Lemvig",
+        "area": "502.8",
+        "pop": "21,384",
+        "region": "Central"
+    },
+    {
+        "id": 89,
+        "LAU1": "269",
+        "url": "https://en.wikipedia.org/wiki/Solr%C3%B8d_Municipality",
+        "name": "Solrød",
+        "area": "40.1",
+        "pop": "21,156",
+        "region": "Zealand"
+    },
+    {
+        "id": 90,
+        "LAU1": "183",
+        "url": "https://en.wikipedia.org/wiki/Ish%C3%B8j_Municipality",
+        "name": "Ishøj",
+        "area": "26.4",
+        "pop": "21,087",
+        "region": "Capital"
+    },
+    {
+        "id": 91,
+        "LAU1": "187",
+        "url": "https://en.wikipedia.org/wiki/Vallensb%C3%A6k_Municipality",
+        "name": "Vallensbæk",
+        "area": "9.5",
+        "pop": "14,565",
+        "region": "Capital"
+    },
+    {
+        "id": 92,
+        "LAU1": "155",
+        "url": "https://en.wikipedia.org/wiki/Drag%C3%B8r_Municipality",
+        "name": "Dragør",
+        "area": "18.3",
+        "pop": "13,692",
+        "region": "Capital"
+    },
+    {
+        "id": 93,
+        "LAU1": "482",
+        "url": "https://en.wikipedia.org/wiki/Langeland_Municipality",
+        "name": "Langeland",
+        "area": "288.8",
+        "pop": "13,094",
+        "region": "South"
+    },
+    {
+        "id": 94,
+        "LAU1": "492",
+        "url": "https://en.wikipedia.org/wiki/%C3%86r%C3%B8_Municipality",
+        "name": "Ærø",
+        "area": "90.1",
+        "pop": "6,636",
+        "region": "South"
+    },
+    {
+        "id": 95,
+        "LAU1": "741",
+        "url": "https://en.wikipedia.org/wiki/Sams%C3%B8_Municipality",
+        "name": "Samsø",
+        "area": "113.5",
+        "pop": "3,889",
+        "region": "Central"
+    },
+    {
+        "id": 96,
+        "LAU1": "563",
+        "url": "https://en.wikipedia.org/wiki/Fan%C3%B8",
+        "name": "Fanø",
+        "area": "54.6",
+        "pop": "3,251",
+        "region": "South"
+    },
+    {
+        "id": 97,
+        "LAU1": "825",
+        "url": "https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8",
+        "name": "Læsø",
+        "area": "118.9",
+        "pop": "1,897",
+        "region": "North"
+    }
+]

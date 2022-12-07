@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Athens",
+        "name": "Athens",
+        "area": "3,808",
+        "pop": "3,812,330",
+        "popdensity": "1001.11"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Lamia_(city)",
+        "name": "Lamia",
+        "area": "15,549",
+        "pop": "546,870",
+        "popdensity": "35.17"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Thessaloniki",
+        "name": "Thessaloniki",
+        "area": "18,811",
+        "pop": "1,874,590",
+        "popdensity": "99.66"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Heraklion",
+        "name": "Heraklion",
+        "area": "8,336",
+        "pop": "621,340",
+        "popdensity": "74.54"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Komotini",
+        "name": "Komotini",
+        "area": "14,157",
+        "pop": "606,170",
+        "popdensity": "42.82"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Ioannina",
+        "name": "Ioannina",
+        "area": "9,203",
+        "pop": "336,650",
+        "popdensity": "36.58"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Corfu_(city)",
+        "name": "Corfu",
+        "area": "2,307",
+        "pop": "206,470",
+        "popdensity": "89.50"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Mytilene",
+        "name": "Mytilene",
+        "area": "3,836",
+        "pop": "197,810",
+        "popdensity": "51.57"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Tripoli,_Greece",
+        "name": "Tripoli",
+        "area": "15,490",
+        "pop": "581,980",
+        "popdensity": "37.57"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Ermoupoli",
+        "name": "Ermoupoli",
+        "area": "5,286",
+        "pop": "308,610",
+        "popdensity": "58.38"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Larissa",
+        "name": "Larissa",
+        "area": "14,037",
+        "pop": "730,730",
+        "popdensity": "52.06"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Patras",
+        "name": "Patras",
+        "area": "11,350",
+        "pop": "680,190",
+        "popdensity": "59.93"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Kozani",
+        "name": "Kozani",
+        "area": "9,451",
+        "pop": "282,120",
+        "popdensity": "29.85"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Karyes,_Mount_Athos",
+        "name": "Karyes",
+        "area": "336",
+        "pop": "2,146",
+        "popdensity": "6.38"
+    }
+]

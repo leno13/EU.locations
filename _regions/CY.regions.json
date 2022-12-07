@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Famagusta_District",
+        "name": "Famagusta (Αμμόχωστος; Gazimağusa)",
+        "pop": "47,338",
+        "area": "1,985.3"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Kyrenia_District",
+        "name": "Kyrenia (Κερύvεια; Girne)",
+        "pop": "N/A",
+        "area": "643.9"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Larnaca_District",
+        "name": "Larnaca (Λάρνακα; Larnaka)",
+        "pop": "145,365",
+        "area": "1,120.1"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Limassol_District",
+        "name": "Limassol (Λεμεσός; Limasol or Leymosun)",
+        "pop": "239,842",
+        "area": "1,393.3"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Nicosia_District",
+        "name": "Nicosia (Λευκωσία; Lefkoşa)",
+        "pop": "334,120",
+        "area": "2,710.0"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Paphos_District",
+        "name": "Paphos (Πάφος; Baf or Gazibaf)",
+        "pop": "90,295",
+        "area": "1,389.8"
+    }
+]

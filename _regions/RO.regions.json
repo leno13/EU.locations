@@ -1,0 +1,380 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Alba_County",
+        "name": "Alba",
+        "car_plates": "AB",
+        "NUTS": "RO121",
+        "pop": "342,376",
+        "area": "6,250 km (2,410 sq mi)"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Arad_County",
+        "name": "Arad",
+        "car_plates": "AR",
+        "NUTS": "RO421",
+        "pop": "430,629",
+        "area": "7,746 km (2,991 sq mi)"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Arge%C8%99_County",
+        "name": "Argeș",
+        "car_plates": "AG",
+        "NUTS": "RO311",
+        "pop": "612,431",
+        "area": "6,822 km (2,634 sq mi)"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Bac%C4%83u_County",
+        "name": "Bacău",
+        "car_plates": "BC",
+        "NUTS": "RO211",
+        "pop": "616,168",
+        "area": "6,622 km (2,557 sq mi)"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Bihor_County",
+        "name": "Bihor",
+        "car_plates": "BH",
+        "NUTS": "RO111",
+        "pop": "575,398",
+        "area": "7,539 km (2,911 sq mi)"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Bistri%C8%9Ba-N%C4%83s%C4%83ud_County",
+        "name": "Bistrița-Năsăud",
+        "car_plates": "BN",
+        "NUTS": "RO112",
+        "pop": "286,225",
+        "area": "5,358 km (2,069 sq mi)"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Boto%C8%99ani_County",
+        "name": "Botoșani",
+        "car_plates": "BT",
+        "NUTS": "RO212",
+        "pop": "412,626",
+        "area": "4,987 km (1,925 sq mi)"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Bra%C8%99ov_County",
+        "name": "Brașov",
+        "car_plates": "BV",
+        "NUTS": "RO122",
+        "pop": "549,217",
+        "area": "5,361 km (2,070 sq mi)"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Br%C4%83ila_County",
+        "name": "Brăila",
+        "car_plates": "BR",
+        "NUTS": "RO221",
+        "pop": "321,212",
+        "area": "4,766 km (1,840 sq mi)"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Bucharest",
+        "name": "Bucharest",
+        "car_plates": "B",
+        "NUTS": "RO321",
+        "pop": "1,883,425",
+        "area": "240 km (93 sq mi)"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Buz%C4%83u_County",
+        "name": "Buzău",
+        "car_plates": "BZ",
+        "NUTS": "RO222",
+        "pop": "451,069",
+        "area": "6,101 km (2,356 sq mi)"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Cara%C8%99-Severin_County",
+        "name": "Caraș-Severin",
+        "car_plates": "CS",
+        "NUTS": "RO422",
+        "pop": "295,579",
+        "area": "8,532 km (3,294 sq mi)"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/C%C4%83l%C4%83ra%C8%99i_County",
+        "name": "Călărași",
+        "car_plates": "CL",
+        "NUTS": "RO312",
+        "pop": "306,691",
+        "area": "5,087 km (1,964 sq mi)"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Cluj_County",
+        "name": "Cluj",
+        "car_plates": "CJ",
+        "NUTS": "RO113",
+        "pop": "691,106",
+        "area": "6,672 km (2,576 sq mi)"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Constan%C8%9Ba_County",
+        "name": "Constanța",
+        "car_plates": "CT",
+        "NUTS": "RO223",
+        "pop": "684,082",
+        "area": "7,104 km (2,743 sq mi)"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Covasna_County",
+        "name": "Covasna",
+        "car_plates": "CV",
+        "NUTS": "RO123",
+        "pop": "210,177",
+        "area": "3,707 km (1,431 sq mi)"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/D%C3%A2mbovi%C8%9Ba_County",
+        "name": "Dâmbovița",
+        "car_plates": "DB",
+        "NUTS": "RO313",
+        "pop": "518,745",
+        "area": "4,056 km (1,566 sq mi)"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Dolj_County",
+        "name": "Dolj",
+        "car_plates": "DJ",
+        "NUTS": "RO411",
+        "pop": "660,544",
+        "area": "7,425 km (2,867 sq mi)"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Gala%C8%9Bi_County",
+        "name": "Galați",
+        "car_plates": "GL",
+        "NUTS": "RO224",
+        "pop": "536,167",
+        "area": "4,465 km (1,724 sq mi)"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Giurgiu_County",
+        "name": "Giurgiu",
+        "car_plates": "GR",
+        "NUTS": "RO314",
+        "pop": "281,422",
+        "area": "3,544 km (1,368 sq mi)"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Gorj_County",
+        "name": "Gorj",
+        "car_plates": "GJ",
+        "NUTS": "RO412",
+        "pop": "341,594",
+        "area": "5,572 km (2,151 sq mi)"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/Harghita_County",
+        "name": "Harghita",
+        "car_plates": "HR",
+        "NUTS": "RO124",
+        "pop": "310,867",
+        "area": "6,637 km (2,563 sq mi)"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/Hunedoara_County",
+        "name": "Hunedoara",
+        "car_plates": "HD",
+        "NUTS": "RO423",
+        "pop": "418,565",
+        "area": "7,072 km (2,731 sq mi)"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/Ialomi%C8%9Ba_County",
+        "name": "Ialomița",
+        "car_plates": "IL",
+        "NUTS": "RO315",
+        "pop": "274,148",
+        "area": "4,455 km (1,720 sq mi)"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/Ia%C8%99i_County",
+        "name": "Iași",
+        "car_plates": "IS",
+        "NUTS": "RO213",
+        "pop": "772,348",
+        "area": "5,477 km (2,115 sq mi)"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/Ilfov_County",
+        "name": "Ilfov",
+        "car_plates": "IF",
+        "NUTS": "RO322",
+        "pop": "388,738",
+        "area": "1,564 km (604 sq mi)"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/Maramure%C8%99_County",
+        "name": "Maramureș",
+        "car_plates": "MM",
+        "NUTS": "RO114",
+        "pop": "478,659",
+        "area": "6,303 km (2,434 sq mi)"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Mehedin%C8%9Bi_County",
+        "name": "Mehedinți",
+        "car_plates": "MH",
+        "NUTS": "RO413",
+        "pop": "265,390",
+        "area": "4,942 km (1,908 sq mi)"
+    },
+    {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/Mure%C8%99_County",
+        "name": "Mureș",
+        "car_plates": "MS",
+        "NUTS": "RO125",
+        "pop": "550,846",
+        "area": "6,705 km (2,589 sq mi)"
+    },
+    {
+        "id": 29,
+        "url": "https://en.wikipedia.org/wiki/Neam%C8%9B_County",
+        "name": "Neamț",
+        "car_plates": "NT",
+        "NUTS": "RO214",
+        "pop": "470,766",
+        "area": "5,897 km (2,277 sq mi)"
+    },
+    {
+        "id": 30,
+        "url": "https://en.wikipedia.org/wiki/Olt_County",
+        "name": "Olt",
+        "car_plates": "OT",
+        "NUTS": "RO414",
+        "pop": "436,400",
+        "area": "5,503 km (2,125 sq mi)"
+    },
+    {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/Prahova_County",
+        "name": "Prahova",
+        "car_plates": "PH",
+        "NUTS": "RO316",
+        "pop": "762,886",
+        "area": "4,715 km (1,820 sq mi)"
+    },
+    {
+        "id": 32,
+        "url": "https://en.wikipedia.org/wiki/Satu_Mare_County",
+        "name": "Satu Mare",
+        "car_plates": "SM",
+        "NUTS": "RO115",
+        "pop": "344,360",
+        "area": "4,420 km (1,710 sq mi)"
+    },
+    {
+        "id": 33,
+        "url": "https://en.wikipedia.org/wiki/S%C4%83laj_County",
+        "name": "Sălaj",
+        "car_plates": "SJ",
+        "NUTS": "RO116",
+        "pop": "224,384",
+        "area": "3,867 km (1,493 sq mi)"
+    },
+    {
+        "id": 34,
+        "url": "https://en.wikipedia.org/wiki/Sibiu_County",
+        "name": "Sibiu",
+        "car_plates": "SB",
+        "NUTS": "RO126",
+        "pop": "397,322",
+        "area": "5,432 km (2,097 sq mi)"
+    },
+    {
+        "id": 35,
+        "url": "https://en.wikipedia.org/wiki/Suceava_County",
+        "name": "Suceava",
+        "car_plates": "SV",
+        "NUTS": "RO215",
+        "pop": "634,810",
+        "area": "8,553 km (3,302 sq mi)"
+    },
+    {
+        "id": 36,
+        "url": "https://en.wikipedia.org/wiki/Teleorman_County",
+        "name": "Teleorman",
+        "car_plates": "TR",
+        "NUTS": "RO317",
+        "pop": "380,123",
+        "area": "5,788 km (2,235 sq mi)"
+    },
+    {
+        "id": 37,
+        "url": "https://en.wikipedia.org/wiki/Timi%C8%99_County",
+        "name": "Timiș",
+        "car_plates": "TM",
+        "NUTS": "RO424",
+        "pop": "683,540",
+        "area": "8,692 km (3,356 sq mi)"
+    },
+    {
+        "id": 38,
+        "url": "https://en.wikipedia.org/wiki/Tulcea_County",
+        "name": "Tulcea",
+        "car_plates": "TL",
+        "NUTS": "RO225",
+        "pop": "213,083",
+        "area": "8,484 km (3,276 sq mi)"
+    },
+    {
+        "id": 39,
+        "url": "https://en.wikipedia.org/wiki/Vaslui_County",
+        "name": "Vaslui",
+        "car_plates": "VS",
+        "NUTS": "RO216",
+        "pop": "395,499",
+        "area": "5,317 km (2,053 sq mi)"
+    },
+    {
+        "id": 40,
+        "url": "https://en.wikipedia.org/wiki/V%C3%A2lcea_County",
+        "name": "Vâlcea",
+        "car_plates": "VL",
+        "NUTS": "RO415",
+        "pop": "371,714",
+        "area": "5,764 km (2,225 sq mi)"
+    },
+    {
+        "id": 41,
+        "url": "https://en.wikipedia.org/wiki/Vrancea_County",
+        "name": "Vrancea",
+        "car_plates": "VN",
+        "NUTS": "RO226",
+        "pop": "340,310",
+        "area": "4,854 km (1,874 sq mi)"
+    }
+]

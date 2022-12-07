@@ -1,0 +1,149 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Bjelovar-Bilogora_County",
+        "name": "Bjelovar-Bilogora",
+        "area": "2,640 km (1,020 sq mi)",
+        "pop": "101,879"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Brod-Posavina_County",
+        "name": "Brod-Posavina",
+        "area": "2,030 km (780 sq mi)",
+        "pop": "130,267"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Dubrovnik-Neretva_County",
+        "name": "Dubrovnik-Neretva",
+        "area": "1,781 km (688 sq mi)",
+        "pop": "115,564"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Istria_County",
+        "name": "Istria",
+        "area": "2,813 km (1,086 sq mi)",
+        "pop": "195,237"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Karlovac_County",
+        "name": "Karlovac",
+        "area": "3,626 km (1,400 sq mi)",
+        "pop": "112,195"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Koprivnica-Kri%C5%BEevci_County",
+        "name": "Koprivnica-Križevci",
+        "area": "1,748 km (675 sq mi)",
+        "pop": "101,221"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Krapina-Zagorje_County",
+        "name": "Krapina-Zagorje",
+        "area": "1,229 km (475 sq mi)",
+        "pop": "120,702"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Lika-Senj_County",
+        "name": "Lika-Senj",
+        "area": "5,353 km (2,067 sq mi)",
+        "pop": "42,748"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Me%C4%91imurje_County",
+        "name": "Međimurje",
+        "area": "0,730729 km (281 sq mi)",
+        "pop": "105,250"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Osijek-Baranja_County",
+        "name": "Osijek-Baranja",
+        "area": "4,155 km (1,604 sq mi)",
+        "pop": "258,026"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Po%C5%BEega-Slavonia_County",
+        "name": "Požega-Slavonia",
+        "area": "1,823 km (704 sq mi)",
+        "pop": "64,084"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Primorje-Gorski_Kotar_County",
+        "name": "Primorje-Gorski Kotar",
+        "area": "3,588 km (1,385 sq mi)",
+        "pop": "265,419"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Sisak-Moslavina_County",
+        "name": "Sisak-Moslavina",
+        "area": "4,468 km (1,725 sq mi)",
+        "pop": "139,603"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Split-Dalmatia_County",
+        "name": "Split-Dalmatia",
+        "area": "4,540 km (1,750 sq mi)",
+        "pop": "423,407"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/%C5%A0ibenik-Knin_County",
+        "name": "SŠibenikŠibenik-Knin",
+        "area": "2,984 km (1,152 sq mi)",
+        "pop": "96,381"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Vara%C5%BEdin_County",
+        "name": "Varaždin",
+        "area": "1,262 km (487 sq mi)",
+        "pop": "159,487"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Virovitica-Podravina_County",
+        "name": "Virovitica-Podravina",
+        "area": "2,024 km (781 sq mi)",
+        "pop": "70,368"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Vukovar-Syrmia_County",
+        "name": "Vukovar-Syrmia",
+        "area": "2,454 km (947 sq mi)",
+        "pop": "143,113"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Zadar_County",
+        "name": "Zadar",
+        "area": "3,646 km (1,408 sq mi)",
+        "pop": "159,766"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Zagreb_County",
+        "name": "Zagreb",
+        "area": "3,060 km (1,180 sq mi)",
+        "pop": "299,985"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Zagreb",
+        "name": "Zagreb, the city ofCity of Zagreb",
+        "area": "767,131",
+        "pop": "22695€23,742"
+    }
+]

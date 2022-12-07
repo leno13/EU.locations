@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Drenthe",
+        "name": "Drenthe",
+        "area": "2,680",
+        "pop": "493,682",
+        "popdensity": "188/km (490/sq mi)"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Flevoland",
+        "name": "Flevoland",
+        "area": "2,412",
+        "pop": "423,021",
+        "popdensity": "300/km (780/sq mi)"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Friesland",
+        "name": "Friesland",
+        "area": "5,749",
+        "pop": "649,957",
+        "popdensity": "195/km (510/sq mi)"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Gelderland",
+        "name": "Gelderland",
+        "area": "5,136",
+        "pop": "2,085,952",
+        "popdensity": "420/km (1,100/sq mi)"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Groningen_(province)",
+        "name": "Groningen",
+        "area": "2,960",
+        "pop": "585,866",
+        "popdensity": "252/km (650/sq mi)"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Limburg_(Netherlands)",
+        "name": "Limburg",
+        "area": "2,210",
+        "pop": "1,117,201",
+        "popdensity": "520/km (1,300/sq mi)"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/North_Brabant",
+        "name": "North Brabant",
+        "area": "5,082",
+        "pop": "2,562,955",
+        "popdensity": "522/km (1,350/sq mi)"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/North_Holland",
+        "name": "North Holland",
+        "area": "4,092",
+        "pop": "2,879,527",
+        "popdensity": "1,081/km (2,800/sq mi)"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Overijssel",
+        "name": "Overijssel",
+        "area": "3,421",
+        "pop": "1,162,406",
+        "popdensity": "350/km (910/sq mi)"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/South_Holland",
+        "name": "South Holland",
+        "area": "3,308",
+        "pop": "3,708,696",
+        "popdensity": "1,374/km (3,560/sq mi)"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Utrecht_(province)",
+        "name": "Utrecht",
+        "area": "1,560",
+        "pop": "1,354,834",
+        "popdensity": "912/km (2,360/sq mi)"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Zeeland",
+        "name": "Zeeland",
+        "area": "2,933",
+        "pop": "383,488",
+        "popdensity": "215/km (560/sq mi)"
+    }
+]

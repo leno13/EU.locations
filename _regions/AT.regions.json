@@ -1,0 +1,942 @@
+[
+    {
+        "id": 0,
+        "state": "Burgen­land",
+        "NUTS": "101",
+        "url": "https://en.wikipedia.org/wiki/Eisenstadt",
+        "name": "Eisenstadt*",
+        "car_plates": "E",
+        "area": "42.88",
+        "pop": "14,895"
+    },
+    {
+        "id": 1,
+        "state": "Burgen­land",
+        "NUTS": "102",
+        "url": "https://en.wikipedia.org/wiki/Rust,_Burgenland",
+        "name": "Rust*",
+        "car_plates": "E",
+        "area": "20.01",
+        "pop": "2,000"
+    },
+    {
+        "id": 2,
+        "state": "Burgen­land",
+        "NUTS": "103",
+        "url": "https://en.wikipedia.org/wiki/Eisenstadt-Umgebung",
+        "name": "Eisenstadt-Umgebung",
+        "car_plates": "EU",
+        "area": "453.14",
+        "pop": "43,861"
+    },
+    {
+        "id": 3,
+        "state": "Burgen­land",
+        "NUTS": "104",
+        "url": "https://en.wikipedia.org/wiki/G%C3%BCssing_(district)",
+        "name": "Güssing",
+        "car_plates": "GS",
+        "area": "485.34",
+        "pop": "25,770"
+    },
+    {
+        "id": 4,
+        "state": "Burgen­land",
+        "NUTS": "105",
+        "url": "https://en.wikipedia.org/wiki/Jennersdorf_(district)",
+        "name": "Jennersdorf",
+        "car_plates": "JE",
+        "area": "253.34",
+        "pop": "17,109"
+    },
+    {
+        "id": 5,
+        "state": "Burgen­land",
+        "NUTS": "106",
+        "url": "https://en.wikipedia.org/wiki/Mattersburg_(district)",
+        "name": "Mattersburg",
+        "car_plates": "MA",
+        "area": "237.83",
+        "pop": "40,316"
+    },
+    {
+        "id": 6,
+        "state": "Burgen­land",
+        "NUTS": "107",
+        "url": "https://en.wikipedia.org/wiki/Neusiedl_am_See_(district)",
+        "name": "Neusiedl am See",
+        "car_plates": "ND",
+        "area": "1,038.64",
+        "pop": "60,397"
+    },
+    {
+        "id": 7,
+        "state": "Burgen­land",
+        "NUTS": "108",
+        "url": "https://en.wikipedia.org/wiki/Oberpullendorf_(district)",
+        "name": "Oberpullendorf",
+        "car_plates": "OP",
+        "area": "701.44",
+        "pop": "37,453"
+    },
+    {
+        "id": 8,
+        "state": "Burgen­land",
+        "NUTS": "109",
+        "url": "https://en.wikipedia.org/wiki/Oberwart_(district)",
+        "name": "Oberwart",
+        "car_plates": "OW",
+        "area": "732.58",
+        "pop": "54,209"
+    },
+    {
+        "id": 9,
+        "state": "Carin­thia",
+        "NUTS": "201",
+        "url": "https://en.wikipedia.org/wiki/Klagenfurt",
+        "name": "Klagenfurt am Wörthersee*",
+        "car_plates": "K",
+        "area": "120.12",
+        "pop": "101,765"
+    },
+    {
+        "id": 10,
+        "state": "Carin­thia",
+        "NUTS": "202",
+        "url": "https://en.wikipedia.org/wiki/Villach",
+        "name": "Villach*",
+        "car_plates": "VI",
+        "area": "134.99",
+        "pop": "63,236"
+    },
+    {
+        "id": 11,
+        "state": "Carin­thia",
+        "NUTS": "203",
+        "url": "https://en.wikipedia.org/wiki/Hermagor_(district)",
+        "name": "Hermagor",
+        "car_plates": "HE",
+        "area": "808.13",
+        "pop": "18,052"
+    },
+    {
+        "id": 12,
+        "state": "Carin­thia",
+        "NUTS": "204",
+        "url": "https://en.wikipedia.org/wiki/Klagenfurt-Land",
+        "name": "Klagenfurt-Land",
+        "car_plates": "KL",
+        "area": "765.64",
+        "pop": "60,503"
+    },
+    {
+        "id": 13,
+        "state": "Carin­thia",
+        "NUTS": "205",
+        "url": "https://en.wikipedia.org/wiki/Sankt_Veit_an_der_Glan_(district)",
+        "name": "St. Veit an der Glan",
+        "car_plates": "SV",
+        "area": "1,493.58",
+        "pop": "53,880"
+    },
+    {
+        "id": 14,
+        "state": "Carin­thia",
+        "NUTS": "206",
+        "url": "https://en.wikipedia.org/wiki/Spittal_an_der_Drau_(district)",
+        "name": "Spittal an der Drau",
+        "car_plates": "SP",
+        "area": "2,764.99",
+        "pop": "75,628"
+    },
+    {
+        "id": 15,
+        "state": "Carin­thia",
+        "NUTS": "207",
+        "url": "https://en.wikipedia.org/wiki/Villach-Land",
+        "name": "Villach-Land",
+        "car_plates": "VL",
+        "area": "1,009.29",
+        "pop": "64,920"
+    },
+    {
+        "id": 16,
+        "state": "Carin­thia",
+        "NUTS": "208",
+        "url": "https://en.wikipedia.org/wiki/V%C3%B6lkermarkt_(district)",
+        "name": "Völkermarkt",
+        "car_plates": "VK",
+        "area": "907.61",
+        "pop": "41,834"
+    },
+    {
+        "id": 17,
+        "state": "Carin­thia",
+        "NUTS": "209",
+        "url": "https://en.wikipedia.org/wiki/Wolfsberg_(district)",
+        "name": "Wolfsberg",
+        "car_plates": "WO",
+        "area": "973.65",
+        "pop": "52,488"
+    },
+    {
+        "id": 18,
+        "state": "Carin­thia",
+        "NUTS": "210",
+        "url": "https://en.wikipedia.org/wiki/Feldkirchen_(district)",
+        "name": "Feldkirchen",
+        "car_plates": "FE",
+        "area": "558.49",
+        "pop": "29,783"
+    },
+    {
+        "id": 19,
+        "state": "Lower Austria",
+        "NUTS": "301",
+        "url": "https://en.wikipedia.org/wiki/Krems_an_der_Donau",
+        "name": "Krems an der Donau*",
+        "car_plates": "KS",
+        "area": "51.66",
+        "pop": "24,837"
+    },
+    {
+        "id": 20,
+        "state": "Lower Austria",
+        "NUTS": "302",
+        "url": "https://en.wikipedia.org/wiki/Sankt_P%C3%B6lten",
+        "name": "St. Pölten*",
+        "car_plates": "P",
+        "area": "108.44",
+        "pop": "55,878"
+    },
+    {
+        "id": 21,
+        "state": "Lower Austria",
+        "NUTS": "303",
+        "url": "https://en.wikipedia.org/wiki/Waidhofen_an_der_Ybbs",
+        "name": "Waidhofen an der Ybbs*",
+        "car_plates": "WY",
+        "area": "131.56",
+        "pop": "11,134"
+    },
+    {
+        "id": 22,
+        "state": "Lower Austria",
+        "NUTS": "304",
+        "url": "https://en.wikipedia.org/wiki/Wiener_Neustadt",
+        "name": "Wiener Neustadt*",
+        "car_plates": "WN",
+        "area": "60.94",
+        "pop": "46,456"
+    },
+    {
+        "id": 23,
+        "state": "Lower Austria",
+        "NUTS": "305",
+        "url": "https://en.wikipedia.org/wiki/Amstetten_(district)",
+        "name": "Amstetten",
+        "car_plates": "AM",
+        "area": "1,187.73",
+        "pop": "116,592"
+    },
+    {
+        "id": 24,
+        "state": "Lower Austria",
+        "NUTS": "306",
+        "url": "https://en.wikipedia.org/wiki/Baden_(district_of_Austria)",
+        "name": "Baden",
+        "car_plates": "BN",
+        "area": "753.64",
+        "pop": "147,113"
+    },
+    {
+        "id": 25,
+        "state": "Lower Austria",
+        "NUTS": "307",
+        "url": "https://en.wikipedia.org/wiki/Bruck_an_der_Leitha_(district)",
+        "name": "Bruck an der Leitha",
+        "car_plates": "BL, SW",
+        "area": "703.11",
+        "pop": "105,507"
+    },
+    {
+        "id": 26,
+        "state": "Lower Austria",
+        "NUTS": "308",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A4nserndorf_(district)",
+        "name": "Gänserndorf",
+        "car_plates": "GF",
+        "area": "1,271.40",
+        "pop": "105,824"
+    },
+    {
+        "id": 27,
+        "state": "Lower Austria",
+        "NUTS": "309",
+        "url": "https://en.wikipedia.org/wiki/Gm%C3%BCnd_(district)",
+        "name": "Gmünd",
+        "car_plates": "GD",
+        "area": "786.39",
+        "pop": "36,275"
+    },
+    {
+        "id": 28,
+        "state": "Lower Austria",
+        "NUTS": "310",
+        "url": "https://en.wikipedia.org/wiki/Hollabrunn_(district)",
+        "name": "Hollabrunn",
+        "car_plates": "HL",
+        "area": "1,010.88",
+        "pop": "51,332"
+    },
+    {
+        "id": 29,
+        "state": "Lower Austria",
+        "NUTS": "311",
+        "url": "https://en.wikipedia.org/wiki/Horn_(district)",
+        "name": "Horn",
+        "car_plates": "HO",
+        "area": "784.00",
+        "pop": "30,838"
+    },
+    {
+        "id": 30,
+        "state": "Lower Austria",
+        "NUTS": "312",
+        "url": "https://en.wikipedia.org/wiki/Korneuburg_(district)",
+        "name": "Korneuburg",
+        "car_plates": "KO",
+        "area": "661.84",
+        "pop": "91,777"
+    },
+    {
+        "id": 31,
+        "state": "Lower Austria",
+        "NUTS": "313",
+        "url": "https://en.wikipedia.org/wiki/Krems-Land",
+        "name": "Krems (Land)",
+        "car_plates": "KR",
+        "area": "923.92",
+        "pop": "56,559"
+    },
+    {
+        "id": 32,
+        "state": "Lower Austria",
+        "NUTS": "314",
+        "url": "https://en.wikipedia.org/wiki/Lilienfeld_(district)",
+        "name": "Lilienfeld",
+        "car_plates": "LF",
+        "area": "931.65",
+        "pop": "25,474"
+    },
+    {
+        "id": 33,
+        "state": "Lower Austria",
+        "NUTS": "315",
+        "url": "https://en.wikipedia.org/wiki/Melk_(district)",
+        "name": "Melk",
+        "car_plates": "ME",
+        "area": "1,013.56",
+        "pop": "78,281"
+    },
+    {
+        "id": 34,
+        "state": "Lower Austria",
+        "NUTS": "316",
+        "url": "https://en.wikipedia.org/wiki/Mistelbach_(district)",
+        "name": "Mistelbach",
+        "car_plates": "MI",
+        "area": "1,291.72",
+        "pop": "75,655"
+    },
+    {
+        "id": 35,
+        "state": "Lower Austria",
+        "NUTS": "317",
+        "url": "https://en.wikipedia.org/wiki/M%C3%B6dling_(district)",
+        "name": "Mödling",
+        "car_plates": "MD",
+        "area": "276.99",
+        "pop": "119,240"
+    },
+    {
+        "id": 36,
+        "state": "Lower Austria",
+        "NUTS": "318",
+        "url": "https://en.wikipedia.org/wiki/Neunkirchen_(Austrian_district)",
+        "name": "Neunkirchen",
+        "car_plates": "NK",
+        "area": "1,146.92",
+        "pop": "86,323"
+    },
+    {
+        "id": 37,
+        "state": "Lower Austria",
+        "NUTS": "319",
+        "url": "https://en.wikipedia.org/wiki/Sankt_P%C3%B6lten-Land",
+        "name": "St. Pölten (Land)",
+        "car_plates": "PL",
+        "area": "1,286.88",
+        "pop": "132,064"
+    },
+    {
+        "id": 38,
+        "state": "Lower Austria",
+        "NUTS": "320",
+        "url": "https://en.wikipedia.org/wiki/Scheibbs_(district)",
+        "name": "Scheibbs",
+        "car_plates": "SB",
+        "area": "1,023.46",
+        "pop": "41,567"
+    },
+    {
+        "id": 39,
+        "state": "Lower Austria",
+        "NUTS": "321",
+        "url": "https://en.wikipedia.org/wiki/Tulln_(district)",
+        "name": "Tulln",
+        "car_plates": "KG, TU",
+        "area": "734.42",
+        "pop": "105,762"
+    },
+    {
+        "id": 40,
+        "state": "Lower Austria",
+        "NUTS": "322",
+        "url": "https://en.wikipedia.org/wiki/Waidhofen_an_der_Thaya_(district)",
+        "name": "Waidhofen an der Thaya",
+        "car_plates": "WT",
+        "area": "669.03",
+        "pop": "25,531"
+    },
+    {
+        "id": 41,
+        "state": "Lower Austria",
+        "NUTS": "323",
+        "url": "https://en.wikipedia.org/wiki/Wiener_Neustadt-Land_District",
+        "name": "Wiener Neustadt (Land)",
+        "car_plates": "WB",
+        "area": "969.84",
+        "pop": "79,033"
+    },
+    {
+        "id": 42,
+        "state": "Lower Austria",
+        "NUTS": "325",
+        "url": "https://en.wikipedia.org/wiki/Zwettl_(district)",
+        "name": "Zwettl",
+        "car_plates": "ZT",
+        "area": "1,399.99",
+        "pop": "41,827"
+    },
+    {
+        "id": 43,
+        "state": "Upper Austria",
+        "NUTS": "401",
+        "url": "https://en.wikipedia.org/wiki/Linz",
+        "name": "Linz*",
+        "car_plates": "L",
+        "area": "95.99",
+        "pop": "206,537"
+    },
+    {
+        "id": 44,
+        "state": "Upper Austria",
+        "NUTS": "402",
+        "url": "https://en.wikipedia.org/wiki/Steyr",
+        "name": "Steyr*",
+        "car_plates": "SR",
+        "area": "26.56",
+        "pop": "37,952"
+    },
+    {
+        "id": 45,
+        "state": "Upper Austria",
+        "NUTS": "403",
+        "url": "https://en.wikipedia.org/wiki/Wels",
+        "name": "Wels*",
+        "car_plates": "WE",
+        "area": "45.92",
+        "pop": "62,654"
+    },
+    {
+        "id": 46,
+        "state": "Upper Austria",
+        "NUTS": "404",
+        "url": "https://en.wikipedia.org/wiki/Braunau_am_Inn_(district)",
+        "name": "Braunau",
+        "car_plates": "BR",
+        "area": "1,040.84",
+        "pop": "106,492"
+    },
+    {
+        "id": 47,
+        "state": "Upper Austria",
+        "NUTS": "405",
+        "url": "https://en.wikipedia.org/wiki/Eferding_(district)",
+        "name": "Eferding",
+        "car_plates": "EF",
+        "area": "259.72",
+        "pop": "33,368"
+    },
+    {
+        "id": 48,
+        "state": "Upper Austria",
+        "NUTS": "406",
+        "url": "https://en.wikipedia.org/wiki/Freistadt_(district)",
+        "name": "Freistadt",
+        "car_plates": "FR",
+        "area": "993.96",
+        "pop": "66,922"
+    },
+    {
+        "id": 49,
+        "state": "Upper Austria",
+        "NUTS": "407",
+        "url": "https://en.wikipedia.org/wiki/Gmunden_(district)",
+        "name": "Gmunden",
+        "car_plates": "GM",
+        "area": "1,431.58",
+        "pop": "102,102"
+    },
+    {
+        "id": 50,
+        "state": "Upper Austria",
+        "NUTS": "408",
+        "url": "https://en.wikipedia.org/wiki/Grieskirchen_(district)",
+        "name": "Grieskirchen",
+        "car_plates": "GR",
+        "area": "579.06",
+        "pop": "65,137"
+    },
+    {
+        "id": 51,
+        "state": "Upper Austria",
+        "NUTS": "409",
+        "url": "https://en.wikipedia.org/wiki/Kirchdorf_an_der_Krems_(district)",
+        "name": "Kirchdorf",
+        "car_plates": "KI",
+        "area": "1,240.01",
+        "pop": "57,163"
+    },
+    {
+        "id": 52,
+        "state": "Upper Austria",
+        "NUTS": "410",
+        "url": "https://en.wikipedia.org/wiki/Linz-Land",
+        "name": "Linz-Land",
+        "car_plates": "LL",
+        "area": "460.41",
+        "pop": "152,391"
+    },
+    {
+        "id": 53,
+        "state": "Upper Austria",
+        "NUTS": "411",
+        "url": "https://en.wikipedia.org/wiki/Perg_(district)",
+        "name": "Perg",
+        "car_plates": "PE",
+        "area": "613.52",
+        "pop": "69,241"
+    },
+    {
+        "id": 54,
+        "state": "Upper Austria",
+        "NUTS": "412",
+        "url": "https://en.wikipedia.org/wiki/Ried_im_Innkreis_(district)",
+        "name": "Ried",
+        "car_plates": "RI",
+        "area": "584.96",
+        "pop": "61,850"
+    },
+    {
+        "id": 55,
+        "state": "Upper Austria",
+        "NUTS": "413",
+        "url": "https://en.wikipedia.org/wiki/Rohrbach_(district)",
+        "name": "Rohrbach",
+        "car_plates": "RO",
+        "area": "817.58",
+        "pop": "56,623"
+    },
+    {
+        "id": 56,
+        "state": "Upper Austria",
+        "NUTS": "414",
+        "url": "https://en.wikipedia.org/wiki/Sch%C3%A4rding_(district)",
+        "name": "Schärding",
+        "car_plates": "SD",
+        "area": "618.44",
+        "pop": "57,438"
+    },
+    {
+        "id": 57,
+        "state": "Upper Austria",
+        "NUTS": "415",
+        "url": "https://en.wikipedia.org/wiki/Steyr-Land",
+        "name": "Steyr-Land",
+        "car_plates": "SE",
+        "area": "971.73",
+        "pop": "60,936"
+    },
+    {
+        "id": 58,
+        "state": "Upper Austria",
+        "NUTS": "416",
+        "url": "https://en.wikipedia.org/wiki/Urfahr-Umgebung",
+        "name": "Urfahr-Umgebung",
+        "car_plates": "UU",
+        "area": "659.67",
+        "pop": "86,235"
+    },
+    {
+        "id": 59,
+        "state": "Upper Austria",
+        "NUTS": "417",
+        "url": "https://en.wikipedia.org/wiki/V%C3%B6cklabruck_(district)",
+        "name": "Vöcklabruck",
+        "car_plates": "VB",
+        "area": "1,084.85",
+        "pop": "137,993"
+    },
+    {
+        "id": 60,
+        "state": "Upper Austria",
+        "NUTS": "418",
+        "url": "https://en.wikipedia.org/wiki/Wels-Land",
+        "name": "Wels-Land",
+        "car_plates": "WL",
+        "area": "457.71",
+        "pop": "74,574"
+    },
+    {
+        "id": 61,
+        "state": "Salz­burg",
+        "NUTS": "501",
+        "url": "https://en.wikipedia.org/wiki/Salzburg",
+        "name": "Salzburg*",
+        "car_plates": "S",
+        "area": "65.65",
+        "pop": "155,416"
+    },
+    {
+        "id": 62,
+        "state": "Salz­burg",
+        "NUTS": "502",
+        "url": "https://en.wikipedia.org/wiki/Tennengau",
+        "name": "Hallein",
+        "car_plates": "HA",
+        "area": "668.35",
+        "pop": "60,992"
+    },
+    {
+        "id": 63,
+        "state": "Salz­burg",
+        "NUTS": "503",
+        "url": "https://en.wikipedia.org/wiki/Flachgau",
+        "name": "Salzburg-Umgebung",
+        "car_plates": "SL",
+        "area": "1,004.47",
+        "pop": "154,624"
+    },
+    {
+        "id": 64,
+        "state": "Salz­burg",
+        "NUTS": "504",
+        "url": "https://en.wikipedia.org/wiki/Pongau",
+        "name": "St. Johann im Pongau",
+        "car_plates": "JO",
+        "area": "1,755.37",
+        "pop": "81,392"
+    },
+    {
+        "id": 65,
+        "state": "Salz­burg",
+        "NUTS": "505",
+        "url": "https://en.wikipedia.org/wiki/Lungau",
+        "name": "Tamsweg",
+        "car_plates": "TA",
+        "area": "1,019.65",
+        "pop": "20,118"
+    },
+    {
+        "id": 66,
+        "state": "Salz­burg",
+        "NUTS": "506",
+        "url": "https://en.wikipedia.org/wiki/Pinzgau",
+        "name": "Zell am See",
+        "car_plates": "ZE",
+        "area": "2,641.07",
+        "pop": "88,168"
+    },
+    {
+        "id": 67,
+        "state": "Styria",
+        "NUTS": "601",
+        "url": "https://en.wikipedia.org/wiki/Graz",
+        "name": "Graz*",
+        "car_plates": "G",
+        "area": "127.57",
+        "pop": "291,134"
+    },
+    {
+        "id": 68,
+        "state": "Styria",
+        "NUTS": "603",
+        "url": "https://en.wikipedia.org/wiki/Deutschlandsberg_(district)",
+        "name": "Deutschlandsberg",
+        "car_plates": "DL",
+        "area": "863.47",
+        "pop": "60,871"
+    },
+    {
+        "id": 69,
+        "state": "Styria",
+        "NUTS": "606",
+        "url": "https://en.wikipedia.org/wiki/Graz-Umgebung",
+        "name": "Graz-Umgebung",
+        "car_plates": "GU",
+        "area": "1,084.55",
+        "pop": "157,853"
+    },
+    {
+        "id": 70,
+        "state": "Styria",
+        "NUTS": "610",
+        "url": "https://en.wikipedia.org/wiki/Leibnitz_(district)",
+        "name": "Leibnitz",
+        "car_plates": "LB",
+        "area": "749.97",
+        "pop": "85,294"
+    },
+    {
+        "id": 71,
+        "state": "Styria",
+        "NUTS": "611",
+        "url": "https://en.wikipedia.org/wiki/Leoben_(district)",
+        "name": "Leoben",
+        "car_plates": "LE, LN",
+        "area": "1,053.49",
+        "pop": "59,151"
+    },
+    {
+        "id": 72,
+        "state": "Styria",
+        "NUTS": "612",
+        "url": "https://en.wikipedia.org/wiki/Liezen_(district)",
+        "name": "Liezen",
+        "car_plates": "GB, LI",
+        "area": "3,318.72",
+        "pop": "79,592"
+    },
+    {
+        "id": 73,
+        "state": "Styria",
+        "NUTS": "614",
+        "url": "https://en.wikipedia.org/wiki/Murau_(district)",
+        "name": "Murau",
+        "car_plates": "MU",
+        "area": "1,385.48",
+        "pop": "27,449"
+    },
+    {
+        "id": 74,
+        "state": "Styria",
+        "NUTS": "616",
+        "url": "https://en.wikipedia.org/wiki/Voitsberg_(district)",
+        "name": "Voitsberg",
+        "car_plates": "VO",
+        "area": "678.18",
+        "pop": "50,947"
+    },
+    {
+        "id": 75,
+        "state": "Styria",
+        "NUTS": "617",
+        "url": "https://en.wikipedia.org/wiki/Weiz_(district)",
+        "name": "Weiz",
+        "car_plates": "WZ",
+        "area": "1,097.94",
+        "pop": "90,916"
+    },
+    {
+        "id": 76,
+        "state": "Styria",
+        "NUTS": "620",
+        "url": "https://en.wikipedia.org/wiki/Murtal_(district)",
+        "name": "Murtal",
+        "car_plates": "MT",
+        "area": "1,675.81",
+        "pop": "71,356"
+    },
+    {
+        "id": 77,
+        "state": "Styria",
+        "NUTS": "621",
+        "url": "https://en.wikipedia.org/wiki/Bruck-M%C3%BCrzzuschlag_District",
+        "name": "Bruck-Mürzzuschlag",
+        "car_plates": "BM",
+        "area": "2,156.93",
+        "pop": "98,054"
+    },
+    {
+        "id": 78,
+        "state": "Styria",
+        "NUTS": "622",
+        "url": "https://en.wikipedia.org/wiki/Hartberg-F%C3%BCrstenfeld_District",
+        "name": "Hartberg-Fürstenfeld",
+        "car_plates": "HF",
+        "area": "1,224.28",
+        "pop": "90,619"
+    },
+    {
+        "id": 79,
+        "state": "Styria",
+        "NUTS": "623",
+        "url": "https://en.wikipedia.org/wiki/S%C3%BCdoststeiermark_District",
+        "name": "Südoststeiermark",
+        "car_plates": "SO",
+        "area": "982.96",
+        "pop": "83,841"
+    },
+    {
+        "id": 80,
+        "state": "Tyrol",
+        "NUTS": "701",
+        "url": "https://en.wikipedia.org/wiki/Innsbruck",
+        "name": "Innsbruck*",
+        "car_plates": "I",
+        "area": "104.91",
+        "pop": "131,059"
+    },
+    {
+        "id": 81,
+        "state": "Tyrol",
+        "NUTS": "702",
+        "url": "https://en.wikipedia.org/wiki/Imst_(district)",
+        "name": "Imst",
+        "car_plates": "IM",
+        "area": "1,724.96",
+        "pop": "60,922"
+    },
+    {
+        "id": 82,
+        "state": "Tyrol",
+        "NUTS": "703",
+        "url": "https://en.wikipedia.org/wiki/Innsbruck-Land",
+        "name": "Innsbruck-Land",
+        "car_plates": "IL",
+        "area": "1,990.17",
+        "pop": "181,698"
+    },
+    {
+        "id": 83,
+        "state": "Tyrol",
+        "NUTS": "704",
+        "url": "https://en.wikipedia.org/wiki/Kitzb%C3%BChel_(district)",
+        "name": "Kitzbühel",
+        "car_plates": "KB",
+        "area": "1,163.30",
+        "pop": "64,676"
+    },
+    {
+        "id": 84,
+        "state": "Tyrol",
+        "NUTS": "705",
+        "url": "https://en.wikipedia.org/wiki/Kufstein_(district)",
+        "name": "Kufstein",
+        "car_plates": "KU",
+        "area": "969.97",
+        "pop": "111,080"
+    },
+    {
+        "id": 85,
+        "state": "Tyrol",
+        "NUTS": "706",
+        "url": "https://en.wikipedia.org/wiki/Landeck_(district)",
+        "name": "Landeck",
+        "car_plates": "LA",
+        "area": "1,595.14",
+        "pop": "44,346"
+    },
+    {
+        "id": 86,
+        "state": "Tyrol",
+        "NUTS": "707",
+        "url": "https://en.wikipedia.org/wiki/Lienz_(district)",
+        "name": "Lienz",
+        "car_plates": "LZ",
+        "area": "2,020.08",
+        "pop": "48,814"
+    },
+    {
+        "id": 87,
+        "state": "Tyrol",
+        "NUTS": "708",
+        "url": "https://en.wikipedia.org/wiki/Reutte_(district)",
+        "name": "Reutte",
+        "car_plates": "RE",
+        "area": "1,236.67",
+        "pop": "33,054"
+    },
+    {
+        "id": 88,
+        "state": "Tyrol",
+        "NUTS": "709",
+        "url": "https://en.wikipedia.org/wiki/Schwaz_(district)",
+        "name": "Schwaz",
+        "car_plates": "SZ",
+        "area": "1,843.18",
+        "pop": "84,456"
+    },
+    {
+        "id": 89,
+        "state": "Vorarl­berg",
+        "NUTS": "801",
+        "url": "https://en.wikipedia.org/wiki/Bludenz_(district)",
+        "name": "Bludenz",
+        "car_plates": "BZ",
+        "area": "1,287.64",
+        "pop": "64,666"
+    },
+    {
+        "id": 90,
+        "state": "Vorarl­berg",
+        "NUTS": "802",
+        "url": "https://en.wikipedia.org/wiki/Bregenz_(district)",
+        "name": "Bregenz",
+        "car_plates": "B",
+        "area": "863.36",
+        "pop": "136,107"
+    },
+    {
+        "id": 91,
+        "state": "Vorarl­berg",
+        "NUTS": "803",
+        "url": "https://en.wikipedia.org/wiki/Dornbirn_(district)",
+        "name": "Dornbirn",
+        "car_plates": "DO",
+        "area": "172.36",
+        "pop": "90,860"
+    },
+    {
+        "id": 92,
+        "state": "Vorarl­berg",
+        "NUTS": "804",
+        "url": "https://en.wikipedia.org/wiki/Feldkirch_(district)",
+        "name": "Feldkirch",
+        "car_plates": "FK",
+        "area": "278.31",
+        "pop": "109,974"
+    },
+    {
+        "id": 93,
+        "state": "Vienna",
+        "NUTS": "901",
+        "url": "https://en.wikipedia.org/wiki/Vienna",
+        "name": "Wien*",
+        "car_plates": "W",
+        "area": "414.82",
+        "pop": "1,920,949"
+    }
+]

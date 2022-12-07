@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Alytus_County",
+        "name": "Alytus County(listen • info)",
+        "area": "5,418 (6)",
+        "pop": "142,000",
+        "popdensity": "25"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Kaunas_County",
+        "name": "Kaunas County(listen • info)",
+        "area": "8,086 (3)",
+        "pop": "594,000",
+        "popdensity": "70"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
+        "name": "Klaipėda County(listen • info)",
+        "area": "5,222 (7)",
+        "pop": "333,000",
+        "popdensity": "61"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Marijampol%C4%97_County",
+        "name": "Marijampolė County(listen • info)",
+        "area": "4,466 (8)",
+        "pop": "129,000",
+        "popdensity": "31"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_County",
+        "name": "Panevėžys County(listen • info)",
+        "area": "7,878 (4)",
+        "pop": "204,000",
+        "popdensity": "27"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/%C5%A0iauliai_County",
+        "name": "Šiauliai County(listen • info)",
+        "area": "8,537 (2)",
+        "pop": "274,000",
+        "popdensity": "31"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Taurag%C4%97_County",
+        "name": "Tauragė County(listen • info)",
+        "area": "4,349 (9)",
+        "pop": "100,000",
+        "popdensity": "21"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Tel%C5%A1iai_County",
+        "name": "Telšiai County(listen • info)",
+        "area": "4,350 (10)",
+        "pop": "147,000",
+        "popdensity": "30"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Utena_County",
+        "name": "Utena County(listen • info)",
+        "area": "7,191 (5)",
+        "pop": "142,000",
+        "popdensity": "18"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Vilnius_County",
+        "name": "Vilnius County(listen • info)",
+        "area": "9,730 (1)",
+        "pop": "837,000",
+        "popdensity": "84"
+    }
+]

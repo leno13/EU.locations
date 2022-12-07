@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Central_Region,_Malta",
+        "name": "Central Region",
+        "area": "23.6 km (9.1 sq mi)",
+        "pop": "111,994",
+        "popdensity": "4,700/km (12,000/sq mi)"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Gozo_Region",
+        "name": "Gozo Region",
+        "area": "68.7 km (26.5 sq mi)",
+        "pop": "37,342",
+        "popdensity": "540/km (1,400/sq mi)"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Northern_Region,_Malta",
+        "name": "Northern Region",
+        "area": "112.9 km (43.6 sq mi)",
+        "pop": "102,892",
+        "popdensity": "910/km (2,400/sq mi)"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/South_Eastern_Region",
+        "name": "South Eastern Region",
+        "area": "36.2 km (14.0 sq mi)",
+        "pop": "99,301",
+        "popdensity": "2,700/km (7,000/sq mi)"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Southern_Region,_Malta",
+        "name": "Southern Region",
+        "area": "78.9 km (30.5 sq mi)",
+        "pop": "93,897",
+        "popdensity": "1,200/km (3,100/sq mi)"
+    }
+]

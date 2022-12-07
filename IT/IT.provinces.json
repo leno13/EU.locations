@@ -1,0 +1,751 @@
+[
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Agrigento",
+        "province": "Agrigento",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "416,181"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Alessandria",
+        "province": "Alessandria",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "409,392"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ancona",
+        "province": "Ancona",
+        "region": "Marche",
+        "macroregion": "Centre",
+        "pop": "464,419"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Aosta_Valley",
+        "province": "Aosta",
+        "region": "Aosta Valley",
+        "macroregion": "North-West",
+        "pop": "124,089"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Arezzo",
+        "province": "Arezzo",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "336,501"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ascoli_Piceno",
+        "province": "Ascoli Piceno",
+        "region": "Marche",
+        "macroregion": "Centre",
+        "pop": "203,425"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Asti",
+        "province": "Asti",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "209,390"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Avellino",
+        "province": "Avellino",
+        "region": "Campania",
+        "macroregion": "South",
+        "pop": "402,929"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Bari",
+        "province": "Bari",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "1,230,158"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Barletta-Andria-Trani",
+        "province": "Barletta-Andria-Trani",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "381,091"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Belluno",
+        "province": "Belluno",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "199,704"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Benevento",
+        "province": "Benevento",
+        "region": "Campania",
+        "macroregion": "South",
+        "pop": "266,716"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Bergamo",
+        "province": "Bergamo",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "1,103,556"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Biella",
+        "province": "Biella",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "170,724"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Bologna",
+        "province": "Bologna",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "1,015,608"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Brescia",
+        "province": "Brescia",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "1,255,709"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Brindisi",
+        "province": "Brindisi",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "381,946"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Cagliari",
+        "province": "Cagliari",
+        "region": "Sardinia",
+        "macroregion": "Insular",
+        "pop": "421,488"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Caltanissetta",
+        "province": "Caltanissetta",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "253,688"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Campobasso",
+        "province": "Campobasso",
+        "region": "Molise",
+        "macroregion": "South",
+        "pop": "212,879"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Caserta",
+        "province": "Caserta",
+        "region": "Campania",
+        "macroregion": "South",
+        "pop": "901,903"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Catania",
+        "province": "Catania",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "1,074,089"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Catanzaro",
+        "province": "Catanzaro",
+        "region": "Calabria",
+        "macroregion": "South",
+        "pop": "344,439"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Chieti",
+        "province": "Chieti",
+        "region": "Abruzzo",
+        "macroregion": "South",
+        "pop": "375,215"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Como",
+        "province": "Como",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "596,456"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cosenza",
+        "province": "Cosenza",
+        "region": "Calabria",
+        "macroregion": "South",
+        "pop": "676,119"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cremona",
+        "province": "Cremona",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "352,242"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Crotone",
+        "province": "Crotone",
+        "region": "Calabria",
+        "macroregion": "South",
+        "pop": "164,059"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cuneo",
+        "province": "Cuneo",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "581,798"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Enna",
+        "province": "Enna",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "157,690"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Fermo",
+        "province": "Fermo",
+        "region": "Marche",
+        "macroregion": "Centre",
+        "pop": "169,710"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ferrara",
+        "province": "Ferrara",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "342,061"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Florence",
+        "province": "Florence",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "998,431"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Foggia",
+        "province": "Foggia",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "602,394"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Forl%C3%AC-Cesena",
+        "province": "Forlì-Cesena",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "392,642"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Frosinone",
+        "province": "Frosinone",
+        "region": "Lazio",
+        "macroregion": "Centre",
+        "pop": "472,559"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Genoa",
+        "province": "Genoa",
+        "region": "Liguria",
+        "macroregion": "North-West",
+        "pop": "823,612"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Gorizia",
+        "province": "Gorizia",
+        "region": "Friuli-Venezia Giulia",
+        "macroregion": "North-East",
+        "pop": "139,070"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Grosseto",
+        "province": "Grosseto",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "217,846"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Imperia",
+        "province": "Imperia",
+        "region": "Liguria",
+        "macroregion": "North-West",
+        "pop": "209,244"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Isernia",
+        "province": "Isernia",
+        "region": "Molise",
+        "macroregion": "South",
+        "pop": "81,415"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_L%27Aquila",
+        "province": "L'Aquila",
+        "region": "Abruzzo",
+        "macroregion": "South",
+        "pop": "290,811"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_La_Spezia",
+        "province": "La Spezia",
+        "region": "Liguria",
+        "macroregion": "North-West",
+        "pop": "215,887"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Latina",
+        "province": "Latina",
+        "region": "Lazio",
+        "macroregion": "Centre",
+        "pop": "566,224"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lecce",
+        "province": "Lecce",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "776,230"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lecco",
+        "province": "Lecco",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "333,569"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Livorno",
+        "province": "Livorno",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "328,996"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lodi",
+        "province": "Lodi",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "227,343"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lucca",
+        "province": "Lucca",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "383,957"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Macerata",
+        "province": "Macerata",
+        "region": "Marche",
+        "macroregion": "Centre",
+        "pop": "307,410"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Mantua",
+        "province": "Mantua",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "406,061"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Massa_and_Carrara",
+        "province": "Massa and Carrara",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "189,836"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Matera",
+        "province": "Matera",
+        "region": "Basilicata",
+        "macroregion": "South",
+        "pop": "192,640"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Messina",
+        "province": "Messina",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "603,980"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Milan",
+        "province": "Milan",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "3,241,813"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Modena",
+        "province": "Modena",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "703,696"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Monza_and_Brianza",
+        "province": "Monza and Brianza",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "870,113"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Naples",
+        "province": "Naples",
+        "region": "Campania",
+        "macroregion": "South",
+        "pop": "2,986,745"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Novara",
+        "province": "Novara",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "362,925"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Nuoro",
+        "province": "Nuoro",
+        "region": "Sardinia",
+        "macroregion": "Insular",
+        "pop": "201,517"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Oristano",
+        "province": "Oristano",
+        "region": "Sardinia",
+        "macroregion": "Insular",
+        "pop": "152,418"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Padua",
+        "province": "Padua",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "932,629"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Palermo",
+        "province": "Palermo",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "1,208,819"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Parma",
+        "province": "Parma",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "449,628"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pavia",
+        "province": "Pavia",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "535,801"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Perugia",
+        "province": "Perugia",
+        "region": "Umbria",
+        "macroregion": "Centre",
+        "pop": "645,506"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pesaro_and_Urbino",
+        "province": "Pesaro and Urbino",
+        "region": "Marche",
+        "macroregion": "Centre",
+        "pop": "353,272"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pescara",
+        "province": "Pescara",
+        "region": "Abruzzo",
+        "macroregion": "South",
+        "pop": "313,882"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Piacenza",
+        "province": "Piacenza",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "283,742"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pisa",
+        "province": "Pisa",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "417,983"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pistoia",
+        "province": "Pistoia",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "290,245"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pordenone",
+        "province": "Pordenone",
+        "region": "Friuli-Venezia Giulia",
+        "macroregion": "North-East",
+        "pop": "310,634"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Potenza",
+        "province": "Potenza",
+        "region": "Basilicata",
+        "macroregion": "South",
+        "pop": "352,490"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Prato",
+        "province": "Prato",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "265,269"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ragusa",
+        "province": "Ragusa",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "314,910"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ravenna",
+        "province": "Ravenna",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "386,643"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Reggio_Calabria",
+        "province": "Reggio Calabria",
+        "region": "Calabria",
+        "macroregion": "South",
+        "pop": "523,791"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Reggio_Emilia",
+        "province": "Reggio Emilia",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "527,140"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rieti",
+        "province": "Rieti",
+        "region": "Lazio",
+        "macroregion": "Centre",
+        "pop": "151,335"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rimini",
+        "province": "Rimini",
+        "region": "Emilia-Romagna",
+        "macroregion": "North-East",
+        "pop": "337,777"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Rome_Capital",
+        "province": "Rome",
+        "region": "Lazio",
+        "macroregion": "Centre",
+        "pop": "4,231,451"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Rovigo",
+        "province": "Rovigo",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "230,763"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Salerno",
+        "province": "Salerno",
+        "region": "Campania",
+        "macroregion": "South",
+        "pop": "1,065,967"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Sassari",
+        "province": "Sassari",
+        "region": "Sardinia",
+        "macroregion": "Insular",
+        "pop": "476,357"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Savona",
+        "province": "Savona",
+        "region": "Liguria",
+        "macroregion": "North-West",
+        "pop": "269,752"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Siena",
+        "province": "Siena",
+        "region": "Tuscany",
+        "macroregion": "Centre",
+        "pop": "263,801"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Sondrio",
+        "province": "Sondrio",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "178,798"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_South_Sardinia",
+        "province": "South Sardinia",
+        "region": "Sardinia",
+        "macroregion": "Insular",
+        "pop": "338,264"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/South_Tyrol",
+        "province": "South Tyrol",
+        "region": "Trentino-South Tyrol",
+        "macroregion": "North-East",
+        "pop": "534,912"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Syracuse",
+        "province": "Syracuse",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "386,071"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Taranto",
+        "province": "Taranto",
+        "region": "Apulia",
+        "macroregion": "South",
+        "pop": "561,958"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Teramo",
+        "province": "Teramo",
+        "region": "Abruzzo",
+        "macroregion": "South",
+        "pop": "301,104"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Terni",
+        "province": "Terni",
+        "region": "Umbria",
+        "macroregion": "Centre",
+        "pop": "219,946"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Trapani",
+        "province": "Trapani",
+        "region": "Sicily",
+        "macroregion": "Insular",
+        "pop": "418,277"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Trentino",
+        "province": "Trento",
+        "region": "Trentino-South Tyrol",
+        "macroregion": "North-East",
+        "pop": "542,166"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Treviso",
+        "province": "Treviso",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "880,417"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Trieste",
+        "province": "Trieste",
+        "region": "Friuli-Venezia Giulia",
+        "macroregion": "North-East",
+        "pop": "230,689"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Turin",
+        "province": "Turin",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "2,219,206"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Udine",
+        "province": "Udine",
+        "region": "Friuli-Venezia Giulia",
+        "macroregion": "North-East",
+        "pop": "521,117"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Varese",
+        "province": "Varese",
+        "region": "Lombardy",
+        "macroregion": "North-West",
+        "pop": "880,093"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Metropolitan_City_of_Venice",
+        "province": "Venice",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "843,545"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Verbano-Cusio-Ossola",
+        "province": "Verbano-Cusio-Ossola",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "154,926"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vercelli",
+        "province": "Vercelli",
+        "region": "Piedmont",
+        "macroregion": "North-West",
+        "pop": "166,584"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Verona",
+        "province": "Verona",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "927,810"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vibo_Valentia",
+        "province": "Vibo Valentia",
+        "region": "Calabria",
+        "macroregion": "South",
+        "pop": "152,193"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Vicenza",
+        "province": "Vicenza",
+        "region": "Veneto",
+        "macroregion": "North-East",
+        "pop": "854,962"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Province_of_Viterbo",
+        "province": "Viterbo",
+        "region": "Lazio",
+        "macroregion": "Centre",
+        "pop": "308,830"
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/File:Coat_of_arms_of_Daugavpils.svg",
+        "name": "Daugavpils",
+        "pop": "80,627"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/File:Jelgava_COA_small.svg",
+        "name": "Jelgava",
+        "pop": "55,336"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/File:Coat_of_Arms_of_J%C5%ABrmala.svg",
+        "name": "Jūrmala",
+        "pop": "50,248"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Liep%C4%81ja.svg",
+        "name": "Liepāja",
+        "pop": "67,964"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/File:Coat_of_Arms_of_R%C4%93zekne.svg",
+        "name": "Rēzekne",
+        "pop": "26,839"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Riga_small.svg",
+        "name": "Riga",
+        "pop": "614,618"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/File:LVA_Ventspils_COA.svg",
+        "name": "Ventspils",
+        "pop": "33,372"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Municipality",
+        "name": "Ādaži",
+        "pop": "21,134"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Aizkraukle_Municipality",
+        "name": "Aizkraukle",
+        "pop": "29,367"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Al%C5%ABksne_Municipality",
+        "name": "Alūksne",
+        "pop": "13,861"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Aug%C5%A1daugava_Municipality",
+        "name": "Augšdaugava",
+        "pop": "25,927"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Balvi_Municipality",
+        "name": "Balvi",
+        "pop": "19,015"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Bauska_Municipality",
+        "name": "Bauska",
+        "pop": "41,755"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/C%C4%93sis_Municipality",
+        "name": "Cēsis",
+        "pop": "41,161"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Dobele_Municipality",
+        "name": "Dobele",
+        "pop": "28,517"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Gulbene_Municipality",
+        "name": "Gulbene",
+        "pop": "19,619"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Jelgava_Municipality",
+        "name": "Jelgava",
+        "pop": "31,969"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/J%C4%93kabpils_Municipality",
+        "name": "Jēkabpils",
+        "pop": "40,576"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/%C4%B6ekava_Municipality",
+        "name": "Ķekava",
+        "pop": "30,077"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Kr%C4%81slava_Municipality",
+        "name": "Krāslava",
+        "pop": "21,459"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Kuld%C4%ABga_Municipality",
+        "name": "Kuldīga",
+        "pop": "27,736"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/Limba%C5%BEi_Municipality",
+        "name": "Limbaži",
+        "pop": "28,546"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/L%C4%ABv%C4%81ni_Municipality",
+        "name": "Līvāni",
+        "pop": "10,636"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/Ludza_Municipality",
+        "name": "Ludza",
+        "pop": "21,777"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/Madona_Municipality",
+        "name": "Madona",
+        "pop": "28,692"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/M%C4%81rupe_Municipality",
+        "name": "Mārupe",
+        "pop": "32,824"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/Ogre_Municipality",
+        "name": "Ogre",
+        "pop": "57,617"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Olaine_Municipality",
+        "name": "Olaine",
+        "pop": "19,705"
+    },
+    {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/Prei%C4%BCi_Municipality",
+        "name": "Preiļi",
+        "pop": "16,759"
+    },
+    {
+        "id": 29,
+        "url": "https://en.wikipedia.org/wiki/R%C4%93zekne_Municipality",
+        "name": "Rēzekne",
+        "pop": "29,643"
+    },
+    {
+        "id": 30,
+        "url": "https://en.wikipedia.org/wiki/Ropa%C5%BEi_Municipality",
+        "name": "Ropaži",
+        "pop": "31,697"
+    },
+    {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/Salaspils_Municipality",
+        "name": "Salaspils",
+        "pop": "22,868"
+    },
+    {
+        "id": 32,
+        "url": "https://en.wikipedia.org/wiki/Saldus_Municipality_(2021%E2%80%93present)",
+        "name": "Saldus",
+        "pop": "27,110"
+    },
+    {
+        "id": 33,
+        "url": "https://en.wikipedia.org/wiki/Saulkrasti_Municipality",
+        "name": "Saulkrasti",
+        "pop": "9,230"
+    },
+    {
+        "id": 34,
+        "url": "https://en.wikipedia.org/wiki/Sigulda_Municipality",
+        "name": "Sigulda",
+        "pop": "30,625"
+    },
+    {
+        "id": 35,
+        "url": "https://en.wikipedia.org/wiki/Smiltene_Municipality",
+        "name": "Smiltene",
+        "pop": "18,155"
+    },
+    {
+        "id": 36,
+        "url": "https://en.wikipedia.org/wiki/South_Kurzeme_Municipality",
+        "name": "South Kurzeme",
+        "pop": "33,364"
+    },
+    {
+        "id": 37,
+        "url": "https://en.wikipedia.org/wiki/Talsi_Municipality",
+        "name": "Talsi",
+        "pop": "35,699"
+    },
+    {
+        "id": 38,
+        "url": "https://en.wikipedia.org/wiki/Tukums_Municipality",
+        "name": "Tukums",
+        "pop": "44,411"
+    },
+    {
+        "id": 39,
+        "url": "https://en.wikipedia.org/wiki/Valka_Municipality",
+        "name": "Valka",
+        "pop": "7,596"
+    },
+    {
+        "id": 40,
+        "url": "https://en.wikipedia.org/wiki/Valmiera_Municipality",
+        "name": "Valmiera",
+        "pop": "51,370"
+    },
+    {
+        "id": 41,
+        "url": "https://en.wikipedia.org/wiki/Varak%C4%BC%C4%81ni_Municipality",
+        "name": "Varakļāni",
+        "pop": "2,945"
+    },
+    {
+        "id": 42,
+        "url": "https://en.wikipedia.org/wiki/Ventspils_Municipality",
+        "name": "Ventspils",
+        "pop": "10,777"
+    }
+]

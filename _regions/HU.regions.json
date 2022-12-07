@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Baranya_County",
+        "name": "Baranya",
+        "area": "4429.60",
+        "pop": "360,704",
+        "popdensity": "81"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/B%C3%A1cs-Kiskun_County",
+        "name": "Bács-Kiskun",
+        "area": "8444.89",
+        "pop": "503,825",
+        "popdensity": "60"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/B%C3%A9k%C3%A9s_County",
+        "name": "Békés",
+        "area": "5629.71",
+        "pop": "334,264",
+        "popdensity": "59"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Borsod-Aba%C3%BAj-Zempl%C3%A9n_County",
+        "name": "Borsod-Abaúj-Zemplén",
+        "area": "7247.19",
+        "pop": "642,447",
+        "popdensity": "89"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Budapest",
+        "name": "Budapest",
+        "area": "525.14",
+        "pop": "1,752,286",
+        "popdensity": "3337"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Csongr%C3%A1d-Csan%C3%A1d_County",
+        "name": "Csongrád-Csanád",
+        "area": "4262.79",
+        "pop": "399,012",
+        "popdensity": "94"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Fej%C3%A9r_County",
+        "name": "Fejér",
+        "area": "4358.48",
+        "pop": "417,712",
+        "popdensity": "96"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Gy%C5%91r-Moson-Sopron_County",
+        "name": "Győr-Moson-Sopron",
+        "area": "4207.79",
+        "pop": "467,144",
+        "popdensity": "111"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Hajd%C3%BA-Bihar_County",
+        "name": "Hajdú-Bihar",
+        "area": "6210.39",
+        "pop": "527,989",
+        "popdensity": "85"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Heves_County",
+        "name": "Heves",
+        "area": "3637.17",
+        "pop": "294,609",
+        "popdensity": "81"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/J%C3%A1sz-Nagykun-Szolnok_County",
+        "name": "Jász-Nagykun-Szolnok",
+        "area": "5581.63",
+        "pop": "370,007",
+        "popdensity": "66"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Kom%C3%A1rom-Esztergom_County",
+        "name": "Komárom-Esztergom",
+        "area": "2264.35",
+        "pop": "299,207",
+        "popdensity": "132"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/N%C3%B3gr%C3%A1d_County",
+        "name": "Nógrád",
+        "area": "2544.48",
+        "pop": "189,304",
+        "popdensity": "74"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Pest_County",
+        "name": "Pest",
+        "area": "6391.18",
+        "pop": "1,278,874",
+        "popdensity": "200"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Somogy_County",
+        "name": "Somogy",
+        "area": "6065.06",
+        "pop": "301,429",
+        "popdensity": "50"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Szabolcs-Szatm%C3%A1r-Bereg_County",
+        "name": "Szabolcs-Szatmár-Bereg",
+        "area": "5935.92",
+        "pop": "552,964",
+        "popdensity": "93"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Tolna_County",
+        "name": "Tolna",
+        "area": "3703.20",
+        "pop": "217,463",
+        "popdensity": "59"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Vas_County",
+        "name": "Vas",
+        "area": "3336.11",
+        "pop": "253,551",
+        "popdensity": "76"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Veszpr%C3%A9m_County",
+        "name": "Veszprém",
+        "area": "4463.64",
+        "pop": "341,317",
+        "popdensity": "76"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Zala_County",
+        "name": "Zala",
+        "area": "3783.84",
+        "pop": "268,648",
+        "popdensity": "71"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "id": 0,
+        "NUTS": "SE110",
+        "url": "https://en.wikipedia.org/wiki/Stockholm_County",
+        "name": "Stockholm",
+        "area": "6,519.3",
+        "pop": "2,377,081",
+        "popdensity": "360"
+    },
+    {
+        "id": 1,
+        "NUTS": "SE331",
+        "url": "https://en.wikipedia.org/wiki/V%C3%A4sterbotten_County",
+        "name": "Västerbotten",
+        "area": "55,186.2",
+        "pop": "271,736",
+        "popdensity": "4.9"
+    },
+    {
+        "id": 2,
+        "NUTS": "SE332",
+        "url": "https://en.wikipedia.org/wiki/Norrbotten_County",
+        "name": "Norrbotten",
+        "area": "98,244.8",
+        "pop": "250,093",
+        "popdensity": "2.6"
+    },
+    {
+        "id": 3,
+        "NUTS": "SE121",
+        "url": "https://en.wikipedia.org/wiki/Uppsala_County",
+        "name": "Uppsala",
+        "area": "8,207.2",
+        "pop": "383,713",
+        "popdensity": "45"
+    },
+    {
+        "id": 4,
+        "NUTS": "SE122",
+        "url": "https://en.wikipedia.org/wiki/S%C3%B6dermanland_County",
+        "name": "Södermanland",
+        "area": "6,102.3",
+        "pop": "297,540",
+        "popdensity": "52"
+    },
+    {
+        "id": 5,
+        "NUTS": "SE123",
+        "url": "https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland_County",
+        "name": "Östergötland",
+        "area": "10,602.0",
+        "pop": "465,495",
+        "popdensity": "43"
+    },
+    {
+        "id": 6,
+        "NUTS": "SE211",
+        "url": "https://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_County",
+        "name": "Jönköping",
+        "area": "10,495.1",
+        "pop": "363,599",
+        "popdensity": "34"
+    },
+    {
+        "id": 7,
+        "NUTS": "SE212",
+        "url": "https://en.wikipedia.org/wiki/Kronoberg_County",
+        "name": "Kronoberg",
+        "area": "8,466.0",
+        "pop": "201,469",
+        "popdensity": "23"
+    },
+    {
+        "id": 8,
+        "NUTS": "SE213",
+        "url": "https://en.wikipedia.org/wiki/Kalmar_County",
+        "name": "Kalmar",
+        "area": "11,217.8",
+        "pop": "245,446",
+        "popdensity": "22"
+    },
+    {
+        "id": 9,
+        "NUTS": "SE214",
+        "url": "https://en.wikipedia.org/wiki/Gotland_County",
+        "name": "Gotland",
+        "area": "3,151.4",
+        "pop": "59,686",
+        "popdensity": "19"
+    },
+    {
+        "id": 10,
+        "NUTS": "SE221",
+        "url": "https://en.wikipedia.org/wiki/Blekinge_County",
+        "name": "Blekinge",
+        "area": "2,946.4",
+        "pop": "159,606",
+        "popdensity": "52"
+    },
+    {
+        "id": 11,
+        "NUTS": "SE224",
+        "url": "https://en.wikipedia.org/wiki/Sk%C3%A5ne_County",
+        "name": "Skåne",
+        "area": "11,034.5",
+        "pop": "1,377,827",
+        "popdensity": "120"
+    },
+    {
+        "id": 12,
+        "NUTS": "SE231",
+        "url": "https://en.wikipedia.org/wiki/Halland_County",
+        "name": "Halland",
+        "area": "5,460.7",
+        "pop": "333,848",
+        "popdensity": "59"
+    },
+    {
+        "id": 13,
+        "NUTS": "SE232",
+        "url": "https://en.wikipedia.org/wiki/V%C3%A4stra_G%C3%B6taland_County",
+        "name": "Västra Götaland",
+        "area": "23,948.8",
+        "pop": "1,725,881",
+        "popdensity": "68"
+    },
+    {
+        "id": 14,
+        "NUTS": "SE311",
+        "url": "https://en.wikipedia.org/wiki/V%C3%A4rmland_County",
+        "name": "Värmland",
+        "area": "17,591.0",
+        "pop": "282,414",
+        "popdensity": "16"
+    },
+    {
+        "id": 15,
+        "NUTS": "SE124",
+        "url": "https://en.wikipedia.org/wiki/%C3%96rebro_County",
+        "name": "Örebro",
+        "area": "8,545.6",
+        "pop": "304,805",
+        "popdensity": "35"
+    },
+    {
+        "id": 16,
+        "NUTS": "SE125",
+        "url": "https://en.wikipedia.org/wiki/V%C3%A4stmanland_County",
+        "name": "Västmanland",
+        "area": "5,145.8",
+        "pop": "275,845",
+        "popdensity": "37"
+    },
+    {
+        "id": 17,
+        "NUTS": "SE312",
+        "url": "https://en.wikipedia.org/wiki/Dalarna_County",
+        "name": "Dalarna",
+        "area": "28,188.8",
+        "pop": "287,966",
+        "popdensity": "10"
+    },
+    {
+        "id": 18,
+        "NUTS": "SE313",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A4vleborg_County",
+        "name": "Gävleborg",
+        "area": "18,198.9",
+        "pop": "287,382",
+        "popdensity": "16"
+    },
+    {
+        "id": 19,
+        "NUTS": "SE321",
+        "url": "https://en.wikipedia.org/wiki/V%C3%A4sternorrland_County",
+        "name": "Västernorrland",
+        "area": "21,683.8",
+        "pop": "245,347",
+        "popdensity": "11"
+    },
+    {
+        "id": 20,
+        "NUTS": "SE322",
+        "url": "https://en.wikipedia.org/wiki/J%C3%A4mtland_County",
+        "name": "Jämtland",
+        "area": "49,341.2",
+        "pop": "130,810",
+        "popdensity": "3.4"
+    }
+]

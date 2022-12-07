@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Harju_County",
+        "name": "Harju County",
+        "area": "4,327",
+        "pop": "609,515",
+        "popdensity": "140.86"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/Hiiu_County",
+        "name": "Hiiu County",
+        "area": "1,032",
+        "pop": "9,381",
+        "popdensity": "9.09"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Ida-Viru_County",
+        "name": "Ida-Viru County",
+        "area": "2,972",
+        "pop": "131,913",
+        "popdensity": "44.39"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/J%C3%B5geva_County",
+        "name": "Jõgeva County",
+        "area": "2,545",
+        "pop": "28,082",
+        "popdensity": "11.03"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/J%C3%A4rva_County",
+        "name": "Järva County",
+        "area": "2,674",
+        "pop": "29,817",
+        "popdensity": "11.15"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne_County",
+        "name": "Lääne County",
+        "area": "1,816",
+        "pop": "20,285",
+        "popdensity": "11.17"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Viru_County",
+        "name": "Lääne-Viru County",
+        "area": "3,696",
+        "pop": "58,402",
+        "popdensity": "15.80"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/P%C3%B5lva_County",
+        "name": "Põlva County",
+        "area": "1,823",
+        "pop": "24,473",
+        "popdensity": "13.42"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/P%C3%A4rnu_County",
+        "name": "Pärnu County",
+        "area": "5,419",
+        "pop": "85,760",
+        "popdensity": "15.83"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Rapla_County",
+        "name": "Rapla County",
+        "area": "2,765",
+        "pop": "33,116",
+        "popdensity": "11.98"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Saare_County",
+        "name": "Saare County",
+        "area": "2,938",
+        "pop": "33,032",
+        "popdensity": "11.24"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Tartu_County",
+        "name": "Tartu County",
+        "area": "2,993",
+        "pop": "153,912",
+        "popdensity": "51.42"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Valga_County",
+        "name": "Valga County",
+        "area": "1,917",
+        "pop": "27,962",
+        "popdensity": "14.59"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Viljandi_County",
+        "name": "Viljandi County",
+        "area": "3,422",
+        "pop": "45,877",
+        "popdensity": "13.41"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/V%C3%B5ru_County",
+        "name": "Võru County",
+        "area": "2,305",
+        "pop": "34,898",
+        "popdensity": "15.14"
+    }
+]

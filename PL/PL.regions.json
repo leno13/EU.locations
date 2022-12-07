@@ -1,0 +1,146 @@
+[
+    {
+        "abbr": "DS",
+        "url": "https://en.wikipedia.org/wiki/Lower_Silesian_Voivodeship",
+        "name": "Lower Silesian",
+        "area": "19,947",
+        "pop": "2,903,000",
+        "car_plates": "D",
+        "id": 0
+    },
+    {
+        "abbr": "KP",
+        "url": "https://en.wikipedia.org/wiki/Kuyavian-Pomeranian_Voivodeship",
+        "name": "Kuyavian-Pomeranian",
+        "area": "17,971",
+        "pop": "2,056,000",
+        "car_plates": "C",
+        "id": 1
+    },
+    {
+        "abbr": "LU",
+        "url": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
+        "name": "Lublin",
+        "area": "25,123",
+        "pop": "2,104,000",
+        "car_plates": "L",
+        "id": 2
+    },
+    {
+        "abbr": "LB",
+        "url": "https://en.wikipedia.org/wiki/Lubusz_Voivodeship",
+        "name": "Lubusz",
+        "area": "13,988",
+        "pop": "995,000",
+        "car_plates": "F",
+        "id": 3
+    },
+    {
+        "abbr": "LD",
+        "url": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_Voivodeship",
+        "name": "Łódź",
+        "area": "18,219",
+        "pop": "2,443,000",
+        "car_plates": "E",
+        "id": 4
+    },
+    {
+        "abbr": "MA",
+        "url": "https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship",
+        "name": "Lesser Poland",
+        "area": "15,183",
+        "pop": "3,399,000",
+        "car_plates": "K",
+        "id": 5
+    },
+    {
+        "abbr": "MZ",
+        "url": "https://en.wikipedia.org/wiki/Masovian_Voivodeship",
+        "name": "Masovian",
+        "area": "35,559",
+        "pop": "5,432,000",
+        "car_plates": "W",
+        "id": 6
+    },
+    {
+        "abbr": "OP",
+        "url": "https://en.wikipedia.org/wiki/Opole_Voivodeship",
+        "name": "Opole",
+        "area": "9,412",
+        "pop": "966,000",
+        "car_plates": "O",
+        "id": 7
+    },
+    {
+        "abbr": "PK",
+        "url": "https://en.wikipedia.org/wiki/Podkarpackie_Voivodeship",
+        "name": "Subcarpathian",
+        "area": "17,846",
+        "pop": "2,098,000",
+        "car_plates": "R",
+        "id": 8
+    },
+    {
+        "abbr": "PD",
+        "url": "https://en.wikipedia.org/wiki/Podlaskie_Voivodeship",
+        "name": "Podlaskie",
+        "area": "20,187",
+        "pop": "1,182,000",
+        "car_plates": "B",
+        "id": 9
+    },
+    {
+        "abbr": "PM",
+        "url": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
+        "name": "Pomeranian",
+        "area": "18,323",
+        "pop": "2,355,000",
+        "car_plates": "G",
+        "id": 10
+    },
+    {
+        "abbr": "SL",
+        "url": "https://en.wikipedia.org/wiki/Silesian_Voivodeship",
+        "name": "Silesian",
+        "area": "12,333",
+        "pop": "4,501,000",
+        "car_plates": "S",
+        "id": 11
+    },
+    {
+        "abbr": "SK",
+        "url": "https://en.wikipedia.org/wiki/%C5%9Awi%C4%99tokrzyskie_Voivodeship",
+        "name": "Holy Cross",
+        "area": "11,710",
+        "pop": "1,216,000",
+        "car_plates": "T",
+        "id": 12
+    },
+    {
+        "abbr": "WN",
+        "url": "https://en.wikipedia.org/wiki/Warmian-Masurian_Voivodeship",
+        "name": "Warmian-Masurian",
+        "area": "24,173",
+        "pop": "1,423,000",
+        "car_plates": "N",
+        "id": 13
+    },
+    {
+        "abbr": "WP",
+        "url": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
+        "name": "Greater Poland",
+        "area": "29,826",
+        "pop": "3,486,000",
+        "car_plates": "P",
+        "id": 14
+    },
+    {
+        "abbr": "ZP",
+        "url": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
+        "name": "West Pomeranian",
+        "area": "22,905",
+        "pop": "1,694,000",
+        "car_plates": "Z",
+        "id": 15
+    }
+]

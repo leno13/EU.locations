@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "licensePlate": "A",
+        "url": "https://en.wikipedia.org/wiki/Prague",
+        "name": "Prague",
+        "pop": "1,275,406",
+        "area": "496",
+        "popdensity": "2,571"
+    },
+    {
+        "id": 1,
+        "licensePlate": "S",
+        "url": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
+        "name": "Central Bohemian",
+        "pop": "1,386,824",
+        "area": "10,929",
+        "popdensity": "127"
+    },
+    {
+        "id": 2,
+        "licensePlate": "C",
+        "url": "https://en.wikipedia.org/wiki/South_Bohemian_Region",
+        "name": "South Bohemian",
+        "pop": "637,047",
+        "area": "10,058",
+        "popdensity": "63"
+    },
+    {
+        "id": 3,
+        "licensePlate": "P",
+        "url": "https://en.wikipedia.org/wiki/Plze%C5%88_Region",
+        "name": "Plzeň",
+        "pop": "578,707",
+        "area": "7,649",
+        "popdensity": "76"
+    },
+    {
+        "id": 4,
+        "licensePlate": "K",
+        "url": "https://en.wikipedia.org/wiki/Karlovy_Vary_Region",
+        "name": "Karlovy Vary",
+        "pop": "283,210",
+        "area": "3,310",
+        "popdensity": "86"
+    },
+    {
+        "id": 5,
+        "licensePlate": "U",
+        "url": "https://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem_Region",
+        "name": "Ústí nad Labem",
+        "pop": "798,898",
+        "area": "5,339",
+        "popdensity": "150"
+    },
+    {
+        "id": 6,
+        "licensePlate": "L",
+        "url": "https://en.wikipedia.org/wiki/Liberec_Region",
+        "name": "Liberec",
+        "pop": "437,570",
+        "area": "3,163",
+        "popdensity": "138"
+    },
+    {
+        "id": 7,
+        "licensePlate": "H",
+        "url": "https://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9_Region",
+        "name": "Hradec Králové",
+        "pop": "542,583",
+        "area": "4,759",
+        "popdensity": "114"
+    },
+    {
+        "id": 8,
+        "licensePlate": "E",
+        "url": "https://en.wikipedia.org/wiki/Pardubice_Region",
+        "name": "Pardubice",
+        "pop": "514,518",
+        "area": "4,519",
+        "popdensity": "114"
+    },
+    {
+        "id": 9,
+        "licensePlate": "J",
+        "url": "https://en.wikipedia.org/wiki/Vyso%C4%8Dina_Region",
+        "name": "Vysočina",
+        "pop": "504,025",
+        "area": "6,796",
+        "popdensity": "74"
+    },
+    {
+        "id": 10,
+        "licensePlate": "B",
+        "url": "https://en.wikipedia.org/wiki/South_Moravian_Region",
+        "name": "South Moravian",
+        "pop": "1,184,568",
+        "area": "7,188",
+        "popdensity": "165"
+    },
+    {
+        "id": 11,
+        "licensePlate": "M",
+        "url": "https://en.wikipedia.org/wiki/Olomouc_Region",
+        "name": "Olomouc",
+        "pop": "622,930",
+        "area": "5,272",
+        "popdensity": "118"
+    },
+    {
+        "id": 12,
+        "licensePlate": "Z",
+        "url": "https://en.wikipedia.org/wiki/Zl%C3%ADn_Region",
+        "name": "Zlín",
+        "pop": "572,432",
+        "area": "3,963",
+        "popdensity": "144"
+    },
+    {
+        "id": 13,
+        "licensePlate": "T",
+        "url": "https://en.wikipedia.org/wiki/Moravian-Silesian_Region",
+        "name": "Moravian-Silesian",
+        "pop": "1,177,989",
+        "area": "5,427",
+        "popdensity": "217"
+    }
+]

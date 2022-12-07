@@ -1,0 +1,135 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Lapland_(Finland)",
+        "name": "Lapland",
+        "area": "92,674",
+        "pop": "177,161"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
+        "name": "North Ostrobothnia",
+        "area": "36,815",
+        "pop": "412,830"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Kainuu",
+        "name": "Kainuu",
+        "area": "20,197",
+        "pop": "72,306"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/North_Karelia",
+        "name": "North Karelia",
+        "area": "17,761",
+        "pop": "161,211"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/North_Savo",
+        "name": "North Savo",
+        "area": "16,768",
+        "pop": "244,236"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/South_Savo",
+        "name": "South Savo",
+        "area": "14,257",
+        "pop": "142,335"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/South_Karelia",
+        "name": "South Karelia",
+        "area": "5,327",
+        "pop": "127,757"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Central_Finland",
+        "name": "Central Finland",
+        "area": "16,703",
+        "pop": "275,104"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/South_Ostrobothnia",
+        "name": "South Ostrobothnia",
+        "area": "13,444",
+        "pop": "188,685"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Ostrobothnia_(region)",
+        "name": "Ostrobothnia",
+        "area": "7,753",
+        "pop": "180,445"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
+        "name": "Central Ostrobothnia",
+        "area": "5,020",
+        "pop": "68,158"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Pirkanmaa",
+        "name": "Pirkanmaa",
+        "area": "12,585",
+        "pop": "517,666"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Satakunta",
+        "name": "Satakunta",
+        "area": "7,820",
+        "pop": "216,752"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4me",
+        "name": "Päijät-Häme",
+        "area": "5,125",
+        "pop": "199,604"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Kanta-H%C3%A4me",
+        "name": "Kanta-Häme (Tavastia Proper)",
+        "area": "5,199",
+        "pop": "170,925"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Kymenlaakso",
+        "name": "Kymenlaakso",
+        "area": "5,149",
+        "pop": "171,167"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Uusimaa",
+        "name": "Uusimaa",
+        "area": "9,097",
+        "pop": "1,689,725"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Southwest_Finland",
+        "name": "Southwest Finland",
+        "area": "10,663",
+        "pop": "479,341"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/%C3%85land",
+        "name": "Åland",
+        "area": "1,553",
+        "pop": "29,884"
+    }
+]

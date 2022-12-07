@@ -1,0 +1,302 @@
+[
+    {
+        "id": 0,
+        "url": "https://en.wikipedia.org/wiki/Province_of_A_Coru%C3%B1a",
+        "name": "A Coruña (Galician); La Coruña (Spanish)",
+        "autonomousComunity": "Galicia"
+    },
+    {
+        "id": 1,
+        "url": "https://en.wikipedia.org/wiki/%C3%81lava",
+        "name": "Álava (Spanish); Araba (Basque)",
+        "autonomousComunity": "Basque Country"
+    },
+    {
+        "id": 2,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Albacete",
+        "name": "Albacete",
+        "autonomousComunity": "Castilla-La Mancha"
+    },
+    {
+        "id": 3,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Alicante",
+        "name": "Alicante (Spanish); Alacant (Valencian)",
+        "autonomousComunity": "Valencian Community"
+    },
+    {
+        "id": 4,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Almer%C3%ADa",
+        "name": "Almería",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 5,
+        "url": "https://en.wikipedia.org/wiki/Asturias",
+        "name": "Asturias",
+        "autonomousComunity": "Asturias"
+    },
+    {
+        "id": 6,
+        "url": "https://en.wikipedia.org/wiki/Province_of_%C3%81vila",
+        "name": "Ávila",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 7,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Badajoz",
+        "name": "Badajoz",
+        "autonomousComunity": "Extremadura"
+    },
+    {
+        "id": 8,
+        "url": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "name": "Balearic Islands (English); Illes Balears (Catalan); Islas Baleares (Spanish)",
+        "autonomousComunity": "Balearic Islands"
+    },
+    {
+        "id": 9,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Barcelona",
+        "name": "Barcelona",
+        "autonomousComunity": "Catalonia"
+    },
+    {
+        "id": 10,
+        "url": "https://en.wikipedia.org/wiki/Biscay",
+        "name": "Biscay (English); Vizcaya (Spanish); Bizkaia (Basque)",
+        "autonomousComunity": "Basque Country"
+    },
+    {
+        "id": 11,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Burgos",
+        "name": "Burgos",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 12,
+        "url": "https://en.wikipedia.org/wiki/Province_of_C%C3%A1ceres",
+        "name": "Cáceres",
+        "autonomousComunity": "Extremadura"
+    },
+    {
+        "id": 13,
+        "url": "https://en.wikipedia.org/wiki/Province_of_C%C3%A1diz",
+        "name": "Cádiz",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 14,
+        "url": "https://en.wikipedia.org/wiki/Cantabria",
+        "name": "Cantabria",
+        "autonomousComunity": "Cantabria"
+    },
+    {
+        "id": 15,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Castell%C3%B3n",
+        "name": "Castellón (Spanish); Castelló (Valencian)",
+        "autonomousComunity": "Valencian Community"
+    },
+    {
+        "id": 16,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ciudad_Real",
+        "name": "Ciudad Real",
+        "autonomousComunity": "Castilla-La Mancha"
+    },
+    {
+        "id": 17,
+        "url": "https://en.wikipedia.org/wiki/Province_of_C%C3%B3rdoba_(Spain)",
+        "name": "Córdoba",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 18,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Cuenca_(Spain)",
+        "name": "Cuenca",
+        "autonomousComunity": "Castilla-La Mancha"
+    },
+    {
+        "id": 19,
+        "url": "https://en.wikipedia.org/wiki/Gipuzkoa",
+        "name": "Guipúzcoa (Spanish); Gipuzkoa (Basque)",
+        "autonomousComunity": "Basque Country"
+    },
+    {
+        "id": 20,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Girona",
+        "name": "Girona (Catalan); Gerona (Spanish)",
+        "autonomousComunity": "Catalonia"
+    },
+    {
+        "id": 21,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Granada",
+        "name": "Granada",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 22,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Guadalajara",
+        "name": "Guadalajara",
+        "autonomousComunity": "Castilla-La Mancha"
+    },
+    {
+        "id": 23,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Huelva",
+        "name": "Huelva",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 24,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Huesca",
+        "name": "Huesca",
+        "autonomousComunity": "Aragon"
+    },
+    {
+        "id": 25,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ja%C3%A9n_(Spain)",
+        "name": "Jaén",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 26,
+        "url": "https://en.wikipedia.org/wiki/La_Rioja_(Spain)",
+        "name": "La Rioja",
+        "autonomousComunity": "La Rioja"
+    },
+    {
+        "id": 27,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Las_Palmas",
+        "name": "Las Palmas",
+        "autonomousComunity": "Canary Islands"
+    },
+    {
+        "id": 28,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Le%C3%B3n",
+        "name": "León",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 29,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Lleida",
+        "name": "Lleida (Catalan); Lérida (Spanish)",
+        "autonomousComunity": "Catalonia"
+    },
+    {
+        "id": 30,
+        "url": "https://en.wikipedia.org/wiki/Lugo_(province)",
+        "name": "Lugo",
+        "autonomousComunity": "Galicia"
+    },
+    {
+        "id": 31,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Madrid",
+        "name": "Madrid",
+        "autonomousComunity": "Community of Madrid"
+    },
+    {
+        "id": 32,
+        "url": "https://en.wikipedia.org/wiki/Province_of_M%C3%A1laga",
+        "name": "Málaga",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 33,
+        "url": "https://en.wikipedia.org/wiki/Region_of_Murcia",
+        "name": "Murcia",
+        "autonomousComunity": "Region of Murcia"
+    },
+    {
+        "id": 34,
+        "url": "https://en.wikipedia.org/wiki/Navarre",
+        "name": "Navarre; Navarra (Spanish); Nafarroa (Basque)",
+        "autonomousComunity": "Navarre"
+    },
+    {
+        "id": 35,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Ourense",
+        "name": "Ourense (Galician); Orense (Spanish)",
+        "autonomousComunity": "Galicia"
+    },
+    {
+        "id": 36,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Palencia",
+        "name": "Palencia",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 37,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Pontevedra",
+        "name": "Pontevedra",
+        "autonomousComunity": "Galicia"
+    },
+    {
+        "id": 38,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Salamanca",
+        "name": "Salamanca",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 39,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Santa_Cruz_de_Tenerife",
+        "name": "Santa Cruz de Tenerife",
+        "autonomousComunity": "Canary Islands"
+    },
+    {
+        "id": 40,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Segovia",
+        "name": "Segovia",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 41,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Seville",
+        "name": "Seville; Sevilla (Spanish)",
+        "autonomousComunity": "Andalusia"
+    },
+    {
+        "id": 42,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Soria",
+        "name": "Soria",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 43,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Tarragona",
+        "name": "Tarragona",
+        "autonomousComunity": "Catalonia"
+    },
+    {
+        "id": 44,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Teruel",
+        "name": "Teruel",
+        "autonomousComunity": "Aragon"
+    },
+    {
+        "id": 45,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Toledo",
+        "name": "Toledo",
+        "autonomousComunity": "Castilla-La Mancha"
+    },
+    {
+        "id": 46,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Valencia",
+        "name": "Valencia; València (Valencian)",
+        "autonomousComunity": "Valencian Community"
+    },
+    {
+        "id": 47,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Valladolid",
+        "name": "Valladolid",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 48,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Zamora",
+        "name": "Zamora",
+        "autonomousComunity": "Castile and León"
+    },
+    {
+        "id": 49,
+        "url": "https://en.wikipedia.org/wiki/Province_of_Zaragoza",
+        "name": "Zaragoza",
+        "autonomousComunity": "Aragon"
+    }
+]
